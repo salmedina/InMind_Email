@@ -1,0 +1,388 @@
+ * Running on http://holbox.lti.cs.cmu.edu:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 935-363-362
+/usr/local/lib/python2.7/dist-packages/numpy/core/fromnumeric.py:2645: VisibleDeprecationWarning: `rank` is deprecated; use the `ndim` attribute or function instead. To find the rank of a matrix see `numpy.linalg.matrix_rank`.
+  VisibleDeprecationWarning)
+73.214.200.62 - - [29/Mar/2016 21:11:55] "POST /parse HTTP/1.1" 200 -
+73.214.200.62 - - [29/Mar/2016 21:12:26] "POST /parse HTTP/1.1" 200 -
+Established connection to SCNLP service
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterO73.214.200.62 - - [29/Mar/2016 21:12:53] "POST /parse HTTP/1.1" 200 -
+73.214.200.62 - - [29/Mar/2016 21:14:33] "POST /parse HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 216, in handle
+    rv = BaseHTTPRequestHandler.handle(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 340, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 250, in handle_one_request
+    elif self.parse_request():
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 281, in parse_request
+    "Bad HTTP/0.9 request type (%r)" % command)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 364, in send_error
+    self.log_error("code %d, message %s", code, message)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 272, in log_error
+    self.log('error', *args)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 278, in log
+    _log(type, '%s - - [%s] %s\n' % (self.address_string(),
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 266, in address_string
+    return self.environ['REMOTE_ADDR']
+AttributeError: 'WSGIRequestHandler' object has no attribute 'environ'
+128.2.13.69 - - [30/Mar/2016 10:44:24] "M-SEARCH * HTTP/1.1" 404 -
+128.237.223.115 - - [30/Mar/2016 11:43:27] "POST /parse HTTP/1.1" 200 -
+ffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+----------------------------------------
+Exception happened during processing of request from ('128.2.13.69', 56540)
+----------------------------------------
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Foun128.237.223.115 - - [30/Mar/2016 12:01:59] "POST /parse HTTP/1.1" 200 -
+128.237.223.115 - - [30/Mar/2016 12:03:38] "POST /parse HTTP/1.1" 200 -
+d Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u128.237.223.115 - - [30/Mar/2016 14:57:27] "POST /parse HTTP/1.1" 200 -
+128.237.223.115 - - [30/Mar/2016 15:55:55] "POST /parse HTTP/1.1" 200 -
+128.237.223.115 - - [30/Mar/2016 17:06:20] "POST /parse HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 216, in handle
+    rv = BaseHTTPRequestHandler.handle(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 340, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 250, in handle_one_request
+    elif self.parse_request():
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 281, in parse_request
+    "Bad HTTP/0.9 request type (%r)" % command)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 364, in send_error
+    self.log_error("code %d, message %s", code, message)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 272, in log_error
+    self.log('error', *args)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 278, in log
+    _log(type, '%s - - [%s] %s\n' % (self.address_string(),
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 266, in address_string
+    return self.environ['REMOTE_ADDR']
+AttributeError: 'WSGIRequestHandler' object has no attribute 'environ'
+128.2.13.69 - - [06/Apr/2016 10:37:34] "M-SEARCH * HTTP/1.1" 404 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 216, in handle
+    rv = BaseHTTPRequestHandler.handle(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 340, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 250, in handle_one_request
+    elif self.parse_request():
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 281, in parse_request
+    "Bad HTTP/0.9 request type (%r)" % command)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 364, in send_error
+    self.log_error("code %d, message %s", code, message)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 272, in log_error
+    self.log('error', *args)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 278, in log
+    _log(type, '%s - - [%s] %s\n' % (self.address_string(),
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 266, in address_string
+    return self.environ['REMOTE_ADDR']
+AttributeError: 'WSGIRequestHandler' object has no attribute 'environ'
+128.2.13.69 - - [13/Apr/2016 04:53:47] "M-SEARCH * HTTP/1.1" 404 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/SocketServer.py", line 295, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 321, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python2.7/SocketServer.py", line 334, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python2.7/SocketServer.py", line 649, in __init__
+    self.handle()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 216, in handle
+    rv = BaseHTTPRequestHandler.handle(self)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 340, in handle
+    self.handle_one_request()
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 250, in handle_one_request
+    elif self.parse_request():
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 281, in parse_request
+    "Bad HTTP/0.9 request type (%r)" % command)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 364, in send_error
+    self.log_error("code %d, message %s", code, message)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 272, in log_error
+    self.log('error', *args)
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 278, in log
+    _log(type, '%s - - [%s] %s\n' % (self.address_string(),
+  File "/usr/local/lib/python2.7/dist-packages/werkzeug/serving.py", line 266, in address_string
+    return self.environ['REMOTE_ADDR']
+AttributeError: 'WSGIRequestHandler' object has no attribute 'environ'
+128.2.13.69 - - [20/Apr/2016 05:19:40] "M-SEARCH * HTTP/1.1" 404 -
+Established connection to SCNLP service
+'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+Initializing
+Processing request
+Loading request
+
+0
+{"body":"Shall we meet at 5:00?","sender":"Sal Medina","subject":"Meeting tomorrow","isLinkedToObjectID":false}
+Normalizing request fields
+Validating request fields
+Found Body in the request
+Found Sender in the request
+Found Subject in the request
+Parsing body through SCNLP
+Looking for time-entity within sentences
+Found time-entity within a sentence.
+Classifying e-mail
+Timed-event e-mail class found
+Looking for event detail entities within body
+[u'Shall', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'5', u'CharacterOffsetBegin': u'0', u'PartOfSpeech': u'NNP', u'Lemma': u'Shall'}]
+[u'we', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'8', u'CharacterOffsetBegin': u'6', u'PartOfSpeech': u'PRP', u'Lemma': u'we'}]
+[u'meet', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'13', u'CharacterOffsetBegin': u'9', u'PartOfSpeech': u'VBP', u'Lemma': u'meet'}]
+[u'at', {u'NamedEntityTag': u'O', u'CharacterOffsetEnd': u'16', u'CharacterOffsetBegin': u'14', u'PartOfSpeech': u'IN', u'Lemma': u'at'}]
+[u'5:00', {u'NormalizedNamedEntityTag': u'T05:00', u'Timex': u'<TIMEX3 tid="t1" type="TIME" value="T05:00">5:00</TIMEX3>', u'Lemma': u'5:00', u'CharacterOffsetEnd': u'21', u'PartOfSpeech': u'CD', u'CharacterOffsetBegin': u'17', u'NamedEntityTag': u'TIME'}]
+[u'?', {u'NormalizedNamedEntityTag': u'T05:00', u'Lemma': u'?', u'CharacterOffsetEnd': u'22', u'PartOfSpeech': u'.', u'CharacterOffsetBegin': u'21', u'NamedEntityTag': u'TIME'}]
+Formatting time and place
+Ready to deploy answer
+----------------------------------------
+Exception happened during processing of request from ('128.2.13.69', 56504)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('128.2.13.69', 50663)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('128.2.13.69', 33536)
+----------------------------------------
