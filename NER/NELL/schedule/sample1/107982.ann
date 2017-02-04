@@ -1,0 +1,27 @@
+T1	EventName 4 21	ENW Staff meeting
+T2	Date 26 41	Thursday (3/29)
+T3	Location 58 64	EB27C2
+T4	TimeSpan 71 84	12:00-1:30 pm
+T5	Telephone 129 143	1-888-285-4585
+T6	Telephone 166 180	1-304-345-7354
+T7	Person 225 233	Philippe
+T8	Person 321 335	Peggy McCurley
+T9	Telephone 375 389	(713) 853-1832
+T10	NELL_profession 8 13	Staff 
+T11	NELL_abstractthing 14 21	meeting 
+T12	NELL_dayofweek 26 34	Thursday 
+T13	NELL_humanagent 82 84	pm 
+T14	NELL_person 327 335	McCurley 
+T15	NELL_room 336 342	Office 
+T16	NELL_jobposition 350 358	Chairman 
+T17	NELL_company 359 364	Enron 
+T18	NELL_sportsteamposition 365 368	Net 
+T19	NELL_profession 8 13	Staff 
+T20	NELL_abstractthing 14 21	meeting 
+T21	NELL_dayofweek 26 34	Thursday 
+T22	NELL_humanagent 82 84	pm 
+T23	NELL_person 327 335	McCurley 
+T24	NELL_room 336 342	Office 
+T25	NELL_jobposition 350 358	Chairman 
+T26	NELL_company 359 364	Enron 
+T27	NELL_sportsteamposition 365 368	Net 

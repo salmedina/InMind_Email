@@ -1,0 +1,26 @@
+T1	EventName 24 52	Management Committee Meeting
+T2	Date 53 72	Friday, November 16
+T3	Time 73 81	9:00 a.m
+T4	Location 93 113	50th Floor Boardroom
+T5	NELL_academicfield 7 11	plan 
+T6	NELL_profession 24 34	Management 
+T7	NELL_organization 35 44	Committee 
+T8	NELL_dayofweek 53 59	Friday 
+T9	NELL_month 61 69	November 
+T10	NELL_weatherphenomenon 78 82	a.m. 
+T11	NELL_location 84 91	Central 
+T12	NELL_room 104 113	Boardroom 
+T13	NELL_company 114 119	Video 
+T14	NELL_musicsong 120 130	connection 
+T15	NELL_city 134 140	London 
+T16	NELL_academicfield 7 11	plan 
+T17	NELL_profession 24 34	Management 
+T18	NELL_organization 35 44	Committee 
+T19	NELL_dayofweek 53 59	Friday 
+T20	NELL_month 61 69	November 
+T21	NELL_weatherphenomenon 78 82	a.m. 
+T22	NELL_location 84 91	Central 
+T23	NELL_room 104 113	Boardroom 
+T24	NELL_company 114 119	Video 
+T25	NELL_musicsong 120 130	connection 
+T26	NELL_city 134 140	London 

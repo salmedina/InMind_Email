@@ -1,0 +1,22 @@
+T1	EventName 26 61	Quarterly Managing Director Meeting
+T2	Date 76 94	Monday, October 22
+T3	Date 178 196	Monday, October 22
+T4	TimeSpan 197 208	8:30 - Noon
+T5	Location 209 222;223 235	Hyatt Regency Dogwood Room
+T6	Location 252 261	3rd floor
+T7	Location 305 318	London office
+T8	Person 360 367	Joannie
+T9	NELL_academicfield 7 11	plan 
+T10	NELL_jobposition 45 53	Director 
+T11	NELL_dayofweek 76 82	Monday 
+T12	NELL_month 84 91	October 
+T13	NELL_humanagent 100 106	agenda 
+T14	NELL_abstractthing 134 141	meeting 
+T15	NELL_musicsong 349 358	questions 
+T16	NELL_academicfield 7 11	plan 
+T17	NELL_jobposition 45 53	Director 
+T18	NELL_dayofweek 76 82	Monday 
+T19	NELL_month 84 91	October 
+T20	NELL_humanagent 100 106	agenda 
+T21	NELL_abstractthing 134 141	meeting 
+T22	NELL_musicsong 349 358	questions 

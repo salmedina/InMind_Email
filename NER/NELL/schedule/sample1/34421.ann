@@ -1,0 +1,18 @@
+T1	Date 6 35	Thursday, February 7th , 2002
+T2	Location 47 56	ECS 06980
+T3	TimeSpan 148 155	10am-12
+T4	TimeSpan 163 172	2pm- 4 pm
+T5	Time 455 459	10am
+T6	Time 484 487	2pm
+T7	NELL_dayofweek 6 14	Thursday 
+T8	NELL_month 16 24	February 
+T9	NELL_humanagent 170 172	pm 
+T10	NELL_organization 225 232	session 
+T11	NELL_abstractthing 317 324	answers 
+T12	NELL_musicsong 333 342	questions 
+T13	NELL_dayofweek 6 14	Thursday 
+T14	NELL_month 16 24	February 
+T15	NELL_humanagent 170 172	pm 
+T16	NELL_organization 225 232	session 
+T17	NELL_abstractthing 317 324	answers 
+T18	NELL_musicsong 333 342	questions 

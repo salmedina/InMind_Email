@@ -1,0 +1,19 @@
+T1	Date 6 29	Tuesday, March 27, 2001
+T2	TimeSpan 30 45	7:00 PM-8:30 PM
+T3	Location 94 106	Beech Street
+T4	Person 153 167	Gillette Burns
+T5	Topic 182 201;202 207	financial planning  stuff
+T6	NELL_dayofweek 6 13	Tuesday 
+T7	NELL_month 15 20	March 
+T8	NELL_humanagent 43 45	PM 
+T9	NELL_location 58 65	Central 
+T10	NELL_magazine 66 70	Time 
+T11	NELL_country 78 84	Canada 
+T12	NELL_company 220 229	time work 
+T13	NELL_dayofweek 6 13	Tuesday 
+T14	NELL_month 15 20	March 
+T15	NELL_humanagent 43 45	PM 
+T16	NELL_location 58 65	Central 
+T17	NELL_magazine 66 70	Time 
+T18	NELL_country 78 84	Canada 
+T19	NELL_company 220 229	time work 

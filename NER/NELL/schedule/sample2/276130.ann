@@ -1,0 +1,25 @@
+T1	Date 6 34	Wednesday, November 07, 2001
+T2	TimeSpan 35 89	2:00 PM-3:30 PM (GMT-08:00) Pacific Time (US & Canada)
+T3	Location 107 124	Mt Hood Conf Room
+T4	NELL_dayofweek 6 15	Wednesday 
+T5	NELL_month 17 25	November 
+T6	NELL_humanagent 48 50	PM 
+T7	NELL_abstractthing 63 70	Pacific 
+T8	NELL_magazine 71 75	Time 
+T9	NELL_country 82 88	Canada 
+T10	NELL_city 91 98	Tijuana 
+T11	NELL_geolocatablething 107 109	Mt 
+T12	NELL_geolocatablething 110 114	Hood 
+T13	NELL_humanagent 115 119	Conf 
+T14	NELL_room 120 124	Room 
+T15	NELL_dayofweek 6 15	Wednesday 
+T16	NELL_month 17 25	November 
+T17	NELL_humanagent 48 50	PM 
+T18	NELL_abstractthing 63 70	Pacific 
+T19	NELL_magazine 71 75	Time 
+T20	NELL_country 82 88	Canada 
+T21	NELL_city 91 98	Tijuana 
+T22	NELL_geolocatablething 107 109	Mt 
+T23	NELL_geolocatablething 110 114	Hood 
+T24	NELL_humanagent 115 119	Conf 
+T25	NELL_room 120 124	Room 

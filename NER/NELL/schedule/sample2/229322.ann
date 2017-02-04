@@ -1,0 +1,19 @@
+T1	Date 6 30	Monday, January 28, 2002
+T2	TimeSpan 31 87	10:15 AM-11:15 AM (GMT-06:00) Central Time (US & Canada)
+T3	Location 96 102	EB1336
+T4	Location 160 166	EB1336
+T5	Date 170 188	Monday, January 28
+T6	Topic 229 283	Transwestern's pending Order No. 637 compliance filing
+T7	TimeSpan 194 217	10:15 a.m. - 11:15 a.m.
+T8	NELL_dayofweek 6 12	Monday 
+T9	NELL_abstractthing 14 24	January 28
+T10	NELL_month 14 21	January 
+T11	NELL_location 61 68	Central 
+T12	NELL_magazine 69 73	Time 
+T13	NELL_country 80 86	Canada 
+T14	NELL_dayofweek 6 12	Monday 
+T15	NELL_abstractthing 14 24	January 28
+T16	NELL_month 14 21	January 
+T17	NELL_location 61 68	Central 
+T18	NELL_magazine 69 73	Time 
+T19	NELL_country 80 86	Canada 

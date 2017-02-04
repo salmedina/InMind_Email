@@ -1,0 +1,29 @@
+T1	EventName 0 12	PRC Meetings
+T2	Date 22 43	Monday, November 20th
+T3	Person 49 52	you
+T4	Telephone 263 287	Houston:  1-713-853-4777
+T5	Telephone 298 322	London:  44-207-783-4040
+T6	NELL_geopoliticalorganization 0 3	PRC 
+T7	NELL_dayofweek 22 28	Monday 
+T8	NELL_month 30 38	November 
+T9	NELL_food 96 99	PEP 
+T10	NELL_profession 176 185	employees 
+T11	NELL_humanagent 403 409	HARRIS 
+T12	NELL_plant 411 416	CATHY 
+T13	NELL_humanagent 423 429	HELTON 
+T14	NELL_person 431 439	JENNIFER 
+T15	NELL_humanagent 453 460	RUSSELL 
+T16	NELL_person 477 480	LEE 
+T17	NELL_person 521 527	JUDITH 
+T18	NELL_geopoliticalorganization 0 3	PRC 
+T19	NELL_dayofweek 22 28	Monday 
+T20	NELL_month 30 38	November 
+T21	NELL_food 96 99	PEP 
+T22	NELL_profession 176 185	employees 
+T23	NELL_humanagent 403 409	HARRIS 
+T24	NELL_plant 411 416	CATHY 
+T25	NELL_humanagent 423 429	HELTON 
+T26	NELL_person 431 439	JENNIFER 
+T27	NELL_humanagent 453 460	RUSSELL 
+T28	NELL_person 477 480	LEE 
+T29	NELL_person 521 527	JUDITH 

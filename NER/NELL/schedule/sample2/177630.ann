@@ -1,0 +1,26 @@
+T1	EventName 0 12	PRC Meetings
+T2	Date 22 43	Monday, November 20th
+T3	Person 49 52	you
+T4	Person 403 419	BROWN, WILLIAM W
+T5	Person 442 462	DETMERING, TIMOTHY J
+T6	Person 493 511	DOSHIER, RAYMOND W
+T7	Person 424 437	BRUCE, DANIEL
+T8	Person 467 488	DONAHUE JR, JEFFREY M
+T9	Person 516 533	FITZGERALD, JAY L
+T10	Person 538 551	GARNER, BRUCE
+T11	Person 556 570	GROS, THOMAS D
+T12	Person 575 592	HICKERSON, GARY J
+T13	Person 597 614	MCCLELLAN, GEORGE
+T14	Person 619 635	MCMAHON, JEFFREY
+T15	Person 640 656	PIPER, GREGORY F
+T16	Person 661 677	ZIPPER, ANDREW A
+T17	NELL_geopoliticalorganization 0 3	PRC 
+T18	NELL_dayofweek 22 28	Monday 
+T19	NELL_month 30 38	November 
+T20	NELL_food 96 99	PEP 
+T21	NELL_profession 176 185	employees 
+T22	NELL_geopoliticalorganization 0 3	PRC 
+T23	NELL_dayofweek 22 28	Monday 
+T24	NELL_month 30 38	November 
+T25	NELL_food 96 99	PEP 
+T26	NELL_profession 176 185	employees 

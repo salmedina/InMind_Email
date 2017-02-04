@@ -1,0 +1,15 @@
+T1	EventName 417 437	mid-year PRC meeting
+T2	DateSpan 513 536	June 12th, 13th or 14th
+T3	Date 104 112	the 11th
+T4	NELL_humanagent 0 4	Anne 
+T5	NELL_abstractthing 15 22	Shirley 
+T6	NELL_location 38 46	calendar 
+T7	NELL_organization 456 460	team 
+T8	NELL_month 513 517	June 
+T9	NELL_humanagent 661 665	Anne 
+T10	NELL_humanagent 0 4	Anne 
+T11	NELL_abstractthing 15 22	Shirley 
+T12	NELL_location 38 46	calendar 
+T13	NELL_organization 456 460	team 
+T14	NELL_month 513 517	June 
+T15	NELL_humanagent 661 665	Anne 

@@ -1,0 +1,16 @@
+T1	Telephone 128 142	1-888-830-6260
+T2	Date 6 31	Friday, February 01, 2002
+T3	TimeSpan 32 88	10:00 AM-12:00 PM (GMT-06:00) Central Time (US & Canada)
+T4	Location 97 105	ECN 32C2
+T5	NELL_dayofweek 6 12	Friday 
+T6	NELL_month 14 22	February 
+T7	NELL_humanagent 47 49	PM 
+T8	NELL_location 62 69	Central 
+T9	NELL_magazine 70 74	Time 
+T10	NELL_country 81 87	Canada 
+T11	NELL_dayofweek 6 12	Friday 
+T12	NELL_month 14 22	February 
+T13	NELL_humanagent 47 49	PM 
+T14	NELL_location 62 69	Central 
+T15	NELL_magazine 70 74	Time 
+T16	NELL_country 81 87	Canada 

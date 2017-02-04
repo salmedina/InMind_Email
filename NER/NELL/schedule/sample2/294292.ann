@@ -1,0 +1,21 @@
+T1	Date 6 33	Thursday, January  24, 2002
+T2	TimeSpan 34 89	2:00 PM-3:00 PM (GMT-07:00) Mountain Time (US & Canada)
+T3	Location 98 112	ENRON'S OFFICE
+T4	NELL_dayofweek 6 14	Thursday 
+T5	NELL_month 16 23	January 
+T6	NELL_abstractthing 16 27	January  24
+T7	NELL_humanagent 47 49	PM 
+T8	NELL_landscapefeatures 62 70	Mountain 
+T9	NELL_magazine 71 75	Time 
+T10	NELL_country 82 88	Canada 
+T11	NELL_company 98 103	ENRON 
+T12	NELL_room 106 112	OFFICE 
+T13	NELL_dayofweek 6 14	Thursday 
+T14	NELL_month 16 23	January 
+T15	NELL_abstractthing 16 27	January  24
+T16	NELL_humanagent 47 49	PM 
+T17	NELL_landscapefeatures 62 70	Mountain 
+T18	NELL_magazine 71 75	Time 
+T19	NELL_country 82 88	Canada 
+T20	NELL_company 98 103	ENRON 
+T21	NELL_room 106 112	OFFICE 

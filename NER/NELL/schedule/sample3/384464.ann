@@ -1,0 +1,15 @@
+T1	Date 6 32	Tuesday, December 18, 2001
+T2	TimeSpan 33 88	9:00 AM-10:00 AM (GMT-06:00) Central Time (US & Canada)
+T3	Location 97 101	49c1
+T4	Telephone 158 170	800-745-1000
+T5	Telephone 186 198	801-977-0648
+T6	NELL_dayofweek 6 13	Tuesday 
+T7	NELL_month 15 23	December 
+T8	NELL_location 62 69	Central 
+T9	NELL_magazine 70 74	Time 
+T10	NELL_country 81 87	Canada 
+T11	NELL_dayofweek 6 13	Tuesday 
+T12	NELL_month 15 23	December 
+T13	NELL_location 62 69	Central 
+T14	NELL_magazine 70 74	Time 
+T15	NELL_country 81 87	Canada 

@@ -1,0 +1,15 @@
+T1	Person 270 275	Britt
+T2	Person 277 282	Grant
+T3	Person 284 289	Becky
+T4	Person 294 295	I
+T5	EventName 303 318	conference call
+T6	Date 329 337	tomorrow
+T7	Time 350 357	9:00 am
+T8	Person 363 373	Rick Dietz
+T9	Person 375 388	Harry Woodson
+T10	Person 393 405	Tangie Dikes
+T11	Topic 409 423;424 433	discuss their  testimony
+T12	NELL_location 14 22	calendar 
+T13	NELL_food 503 515	chicken soup 
+T14	NELL_location 14 22	calendar 
+T15	NELL_food 503 515	chicken soup 

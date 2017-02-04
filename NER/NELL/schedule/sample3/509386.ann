@@ -1,0 +1,23 @@
+T1	EventName 64 90	EWS Brown Bag Lunch Series
+T2	Date 336 362	Thursday, October 18, 2001
+T3	Location 387 393	EB 5C2
+T4	Topic 154 191	Visualizing your Data and Marketplace
+T5	Person 104 116;117 144	THE MAP GUYS Keith Fraley and Peter Hoyt
+T6	TimeSpan 363 386	11:30 a.m. - 12:30 p.m.
+T7	Person 34 37	You
+T8	NELL_humanagent 1 5	MARK 
+T9	NELL_dayofweek 336 344	Thursday 
+T10	NELL_month 346 353	October 
+T11	NELL_weatherphenomenon 369 373	a.m. 
+T12	NELL_humanagent 410 415	lunch 
+T13	NELL_food 449 455	drinks 
+T14	NELL_item 460 467	dessert 
+T15	NELL_person 476 482	Kathie 
+T16	NELL_humanagent 1 5	MARK 
+T17	NELL_dayofweek 336 344	Thursday 
+T18	NELL_month 346 353	October 
+T19	NELL_weatherphenomenon 369 373	a.m. 
+T20	NELL_humanagent 410 415	lunch 
+T21	NELL_food 449 455	drinks 
+T22	NELL_item 460 467	dessert 
+T23	NELL_person 476 482	Kathie 

@@ -1,0 +1,120 @@
+T1	Person 0 12	Mr. Kaminski
+T2	Person 306 316	Dennis Ray
+T3	Person 581 588	Mr. Ray
+T6	Event 720 753	Industrial Advisory Board meeting
+T7	Location 757 767	Oak Brook.
+T9	Organization 173 178	PSERC
+T10	Organization 239 244	PSERC
+T11	Organization 283 288	ENRON
+T13	Organization 833 838	PSERC
+T14	Person 1194 1204	Bob Thomas
+T15	Person 1206 1217	Shmuel Oren
+T16	Person 1222 1223	I
+T17	Location 1249 1254;1255 1290	Power Systems Engineering Research Center
+T18	EventName 1302 1327;1328 1335	Industrial Advisory Board meeting
+T19	Location 1339 1352	Oak Brook, IL
+T20	Person 1168 1180	Mr. Kaminski
+T21	Person 1408 1413	Lance
+T22	Person 1418 1422	Alex
+T4	DateSpan 1373 1388	May 31 - June 1
+T5	Person 1944 1954	Dennis Ray
+T21	NELL_judge 0 3	Mr. 
+T22	NELL_abstractthing 110 121	willingness 
+T23	NELL_emotion 271 279	interest 
+T24	NELL_company 283 288	ENRON 
+T25	NELL_abstractthing 847 853	moment 
+T26	NELL_recordlabel 890 895	touch 
+T27	NELL_academicfield 900 904	plan 
+T28	NELL_person 1194 1197	Bob 
+T29	NELL_person 1194 1204	Bob Thomas 
+T30	NELL_person 1198 1204	Thomas 
+T31	NELL_agent 1213 1217	Oren 
+T32	NELL_abstractthing 1249 1254	Power 
+T33	NELL_academicfield 1255 1262	Systems 
+T34	NELL_academicfield 1263 1274	Engineering 
+T35	NELL_abstractthing 1275 1283	Research 
+T36	NELL_athlete 1284 1290	Center 
+T37	NELL_event 1313 1321	Advisory 
+T38	NELL_abstractthing 1322 1327	Board 
+T39	NELL_abstractthing 1328 1335	meeting 
+T40	NELL_location 1339 1348	Oak Brook 
+T41	NELL_plant 1339 1342	Oak 
+T42	NELL_location 1343 1348	Brook 
+T43	NELL_stateorprovince 1350 1352	IL 
+T44	NELL_abstractthing 1373 1379	May 31
+T45	NELL_month 1382 1386	June 
+T46	NELL_abstractthing 1382 1388	June 1
+T47	NELL_humanagent 1408 1413	Lance 
+T48	NELL_male 1418 1422	Alex 
+T49	NELL_sportsteam 1455 1477	university researchers 
+T50	NELL_abstractthing 1466 1477	researchers 
+T51	NELL_abstractthing 1515 1522	meeting 
+T52	NELL_abstractthing 1579 1587	projects 
+T53	NELL_abstractthing 1679 1689	discussion 
+T54	NELL_abstractthing 1709 1715	issues 
+T55	NELL_profession 1734 1744	executives 
+T56	NELL_company 1766 1772	dialog 
+T57	NELL_sportsteam 1778 1800	university researchers 
+T58	NELL_abstractthing 1789 1800	researchers 
+T59	NELL_musicsong 1838 1847	questions 
+T60	NELL_musicsong 1904 1913	questions 
+T61	NELL_person 1944 1950	Dennis 
+T62	NELL_person 1944 1954	Dennis Ray 
+T63	NELL_humanagent 1951 1954	Ray 
+T64	NELL_jobposition 1962 1971	Executive 
+T65	NELL_jobposition 1972 1980	Director 
+T66	NELL_abstractthing 1981 1986	Power 
+T67	NELL_academicfield 1987 1994	Systems 
+T68	NELL_academicfield 1995 2006	Engineering 
+T69	NELL_abstractthing 2007 2015	Research 
+T70	NELL_athlete 2016 2022	Center 
+T71	NELL_judge 0 3	Mr. 
+T72	NELL_abstractthing 110 121	willingness 
+T73	NELL_emotion 271 279	interest 
+T74	NELL_company 283 288	ENRON 
+T75	NELL_abstractthing 847 853	moment 
+T76	NELL_recordlabel 890 895	touch 
+T77	NELL_academicfield 900 904	plan 
+T78	NELL_person 1194 1197	Bob 
+T79	NELL_person 1194 1204	Bob Thomas 
+T80	NELL_person 1198 1204	Thomas 
+T81	NELL_agent 1213 1217	Oren 
+T82	NELL_abstractthing 1249 1254	Power 
+T83	NELL_academicfield 1255 1262	Systems 
+T84	NELL_academicfield 1263 1274	Engineering 
+T85	NELL_abstractthing 1275 1283	Research 
+T86	NELL_athlete 1284 1290	Center 
+T87	NELL_event 1313 1321	Advisory 
+T88	NELL_abstractthing 1322 1327	Board 
+T89	NELL_abstractthing 1328 1335	meeting 
+T90	NELL_location 1339 1348	Oak Brook 
+T91	NELL_plant 1339 1342	Oak 
+T92	NELL_location 1343 1348	Brook 
+T93	NELL_stateorprovince 1350 1352	IL 
+T94	NELL_abstractthing 1373 1379	May 31
+T95	NELL_month 1382 1386	June 
+T96	NELL_abstractthing 1382 1388	June 1
+T97	NELL_humanagent 1408 1413	Lance 
+T98	NELL_male 1418 1422	Alex 
+T99	NELL_sportsteam 1455 1477	university researchers 
+T100	NELL_abstractthing 1466 1477	researchers 
+T101	NELL_abstractthing 1515 1522	meeting 
+T102	NELL_abstractthing 1579 1587	projects 
+T103	NELL_abstractthing 1679 1689	discussion 
+T104	NELL_abstractthing 1709 1715	issues 
+T105	NELL_profession 1734 1744	executives 
+T106	NELL_company 1766 1772	dialog 
+T107	NELL_sportsteam 1778 1800	university researchers 
+T108	NELL_abstractthing 1789 1800	researchers 
+T109	NELL_musicsong 1838 1847	questions 
+T110	NELL_musicsong 1904 1913	questions 
+T111	NELL_person 1944 1950	Dennis 
+T112	NELL_person 1944 1954	Dennis Ray 
+T113	NELL_humanagent 1951 1954	Ray 
+T114	NELL_jobposition 1962 1971	Executive 
+T115	NELL_jobposition 1972 1980	Director 
+T116	NELL_abstractthing 1981 1986	Power 
+T117	NELL_academicfield 1987 1994	Systems 
+T118	NELL_academicfield 1995 2006	Engineering 
+T119	NELL_abstractthing 2007 2015	Research 
+T120	NELL_athlete 2016 2022	Center 

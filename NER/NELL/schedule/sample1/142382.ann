@@ -1,0 +1,14 @@
+T1	EventName 4 21	ENW Staff meeting
+T2	Date 26 41	tomorrow(12/14)
+T3	Location 58 64	EB27C2
+T4	TimeSpan 71 85	12:00-1:30 pm.
+T5	Telephone 129 143	1-888-285-4585
+T6	Telephone 166 180	1-304-345-7354
+T7	Person 225 231	Louise
+T8	Person 293 299	Tammie
+T9	NELL_profession 8 13	Staff 
+T10	NELL_abstractthing 14 21	meeting 
+T11	NELL_humanagent 82 84	pm 
+T12	NELL_profession 8 13	Staff 
+T13	NELL_abstractthing 14 21	meeting 
+T14	NELL_humanagent 82 84	pm 

@@ -1,0 +1,20 @@
+T1	Person 17 29	Dale Nesbitt
+T2	Time 57 64	2:00 PM
+T3	Location 90 119	EB 49C2 video conference room
+T4	Date 65 74;75 85	Tuesday,  November 7
+T5	NELL_abstractthing 4 11	meeting 
+T6	NELL_humanagent 17 21	Dale 
+T7	NELL_humanagent 62 64	PM 
+T8	NELL_dayofweek 65 72	Tuesday 
+T9	NELL_month 75 83	November 
+T10	NELL_abstractthing 90 92	EB 
+T11	NELL_room 98 119	video conference room 
+T12	NELL_academicfield 127 137	attendance 
+T13	NELL_abstractthing 4 11	meeting 
+T14	NELL_humanagent 17 21	Dale 
+T15	NELL_humanagent 62 64	PM 
+T16	NELL_dayofweek 65 72	Tuesday 
+T17	NELL_month 75 83	November 
+T18	NELL_abstractthing 90 92	EB 
+T19	NELL_room 98 119	video conference room 
+T20	NELL_academicfield 127 137	attendance 

@@ -1,0 +1,52 @@
+T1	Date 246 258	May 17, 2001
+T2	Telephone 613 625	954-797-0718
+T3	Telephone 1216 1230	(845) 486-5213
+T4	TimeSpan 265 277;278 283	9:30 am till 10:30
+T5	EventName 192 206;207 231	the NYSRC ICAP WG Conference Call No. 9
+T6	Organization 0 64;65 74	The ICAP Working Group of the New York State Reliability Council ("NYSRC")
+T7	NELL_humanagent 316 322	Agenda 
+T8	NELL_abstractthing 332 339	meeting 
+T9	NELL_programminglanguage 636 652	Participant Code 
+T10	NELL_programminglanguage 648 652	Code 
+T11	NELL_profession 661 673	Participants 
+T12	NELL_householditem 706 716	telephones 
+T13	NELL_abstractthing 816 823	meeting 
+T14	NELL_abstractthing 841 846	email 
+T15	NELL_abstractthing 906 919	organizations 
+T16	NELL_musicsong 1142 1151	questions 
+T17	NELL_abstractthing 1174 1179	email 
+T18	NELL_tableitem 1207 1212	phone 
+T19	NELL_athlete 1233 1240	Michael 
+T20	NELL_profession 1250 1259	Secretary 
+T21	NELL_conference 1267 1271	ICAP 
+T22	NELL_abstractthing 1272 1279	Working 
+T23	NELL_humanagent 1280 1285	Group 
+T24	NELL_conference 1313 1317	ICAP 
+T25	NELL_televisionstation 1318 1320	WG 
+T26	NELL_humanagent 1321 1327	Agenda 
+T27	NELL_conference 1349 1353	ICAP 
+T28	NELL_televisionstation 1354 1356	WG 
+T29	NELL_humanagent 1357 1363	Agenda 
+T30	NELL_humanagent 316 322	Agenda 
+T31	NELL_abstractthing 332 339	meeting 
+T32	NELL_programminglanguage 636 652	Participant Code 
+T33	NELL_programminglanguage 648 652	Code 
+T34	NELL_profession 661 673	Participants 
+T35	NELL_householditem 706 716	telephones 
+T36	NELL_abstractthing 816 823	meeting 
+T37	NELL_abstractthing 841 846	email 
+T38	NELL_abstractthing 906 919	organizations 
+T39	NELL_musicsong 1142 1151	questions 
+T40	NELL_abstractthing 1174 1179	email 
+T41	NELL_tableitem 1207 1212	phone 
+T42	NELL_athlete 1233 1240	Michael 
+T43	NELL_profession 1250 1259	Secretary 
+T44	NELL_conference 1267 1271	ICAP 
+T45	NELL_abstractthing 1272 1279	Working 
+T46	NELL_humanagent 1280 1285	Group 
+T47	NELL_conference 1313 1317	ICAP 
+T48	NELL_televisionstation 1318 1320	WG 
+T49	NELL_humanagent 1321 1327	Agenda 
+T50	NELL_conference 1349 1353	ICAP 
+T51	NELL_televisionstation 1354 1356	WG 
+T52	NELL_humanagent 1357 1363	Agenda 

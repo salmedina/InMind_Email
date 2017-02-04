@@ -1,0 +1,20 @@
+T1	EventName 26 37	OBA Meeting
+T2	Date 52 72	Friday, September 21
+T3	TimeSpan 74 89	10:00a - 11:30a
+T4	Location 93 104	EB-49C2/7C2
+T5	Location 108 113	Omaha
+T6	Telephone 215 229	(713) 853-5849
+T7	NELL_academicfield 8 12	plan 
+T8	NELL_dayofweek 52 58	Friday 
+T9	NELL_month 60 69	September 
+T10	NELL_city 108 113	Omaha 
+T11	NELL_humanagent 131 140	Robertson 
+T12	NELL_item 154 162	Pipeline 
+T13	NELL_company 163 170	Company 
+T14	NELL_academicfield 8 12	plan 
+T15	NELL_dayofweek 52 58	Friday 
+T16	NELL_month 60 69	September 
+T17	NELL_city 108 113	Omaha 
+T18	NELL_humanagent 131 140	Robertson 
+T19	NELL_item 154 162	Pipeline 
+T20	NELL_company 163 170	Company 

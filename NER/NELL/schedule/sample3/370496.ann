@@ -1,0 +1,34 @@
+T1	EventName 85 99	farewell party
+T2	Location 103 106	OBA
+T3	Time 107 121	tomorrow night
+T4	Location 167 183	Oba, 555 NW 12th
+T5	Date 192 214	Tuesday, December 19th
+T6	Time 216 223	4:30 pm
+T7	EventName 440 458	Farewell Gathering
+T8	EventName 478 496	farewell gathering
+T9	Date 500 527	Thursday, December 21, 2000
+T10	Time 529 536	5:30 PM
+T11	Location 541 572	Kells Irish Pub, 112 SW 2nd Ave
+T12	Topic 585 601	phantom farewell
+T13	NELL_organization 4 9	party 
+T14	NELL_dayofweek 35 43	Thursday 
+T15	NELL_book 44 49	night 
+T16	NELL_abstractthing 53 58	Kells 
+T17	NELL_geopoliticalorganization 85 99	farewell party 
+T18	NELL_geolocatablething 176 178	NW 
+T19	NELL_dayofweek 192 199	Tuesday 
+T20	NELL_month 201 209	December 
+T21	NELL_emotion 227 231	Hope 
+T22	NELL_city 686 694	surprise 
+T23	NELL_emotion 705 709	Hope 
+T24	NELL_organization 4 9	party 
+T25	NELL_dayofweek 35 43	Thursday 
+T26	NELL_book 44 49	night 
+T27	NELL_abstractthing 53 58	Kells 
+T28	NELL_geopoliticalorganization 85 99	farewell party 
+T29	NELL_geolocatablething 176 178	NW 
+T30	NELL_dayofweek 192 199	Tuesday 
+T31	NELL_month 201 209	December 
+T32	NELL_emotion 227 231	Hope 
+T33	NELL_city 686 694	surprise 
+T34	NELL_emotion 705 709	Hope 

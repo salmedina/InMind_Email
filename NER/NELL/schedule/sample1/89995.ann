@@ -1,0 +1,31 @@
+T1	EventName 41 69	SPECIALIZED TECHNICAL VP PRC
+T2	Date 85 103	Wednesday, July 18
+T3	Location 129 135	EB27C2
+T4	Person 150 166	Lisa A. Costello
+T5	Organization 193 211	Enron Net Works HR
+T6	Telephone 212 224	713/853-1819
+T7	TimeSpan 105 125	1:30 p.m. - 5:00 p.m
+T8	NELL_jobposition 63 65	VP 
+T9	NELL_geopoliticalorganization 66 69	PRC 
+T10	NELL_dayofweek 85 94	Wednesday 
+T11	NELL_month 96 100	July 
+T12	NELL_person 150 154	Lisa 
+T13	NELL_person 158 166	Costello 
+T14	NELL_jobposition 167 176	Assistant 
+T15	NELL_personbylocation 180 186	Robert 
+T16	NELL_person 187 192	Jones 
+T17	NELL_company 193 198	Enron 
+T18	NELL_sportsteamposition 199 202	Net 
+T19	NELL_abstractthing 209 211	HR 
+T20	NELL_jobposition 63 65	VP 
+T21	NELL_geopoliticalorganization 66 69	PRC 
+T22	NELL_dayofweek 85 94	Wednesday 
+T23	NELL_month 96 100	July 
+T24	NELL_person 150 154	Lisa 
+T25	NELL_person 158 166	Costello 
+T26	NELL_jobposition 167 176	Assistant 
+T27	NELL_personbylocation 180 186	Robert 
+T28	NELL_person 187 192	Jones 
+T29	NELL_company 193 198	Enron 
+T30	NELL_sportsteamposition 199 202	Net 
+T31	NELL_abstractthing 209 211	HR 

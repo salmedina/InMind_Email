@@ -1,0 +1,27 @@
+T1	Date 28 36	Thursday
+T2	EventName 17 24	meeting
+T3	Person 52 64	Brenda Herod
+T4	EventName 934 973	ENA Vision and Values committee meeting
+T5	Date 990 1008	Thursday, March 30
+T6	Time 1013 1021	2:30 p.m
+T7	Location 1026 1030	47C2
+T8	Topic 1043 1091	review the internal communications plan for 2000
+T9	Topic 1096 1108;1109 1164	discuss the  upcoming focus groups that are planned for ENA in April
+T10	NELL_abstractthing 17 24	meeting 
+T11	NELL_dayofweek 28 36	Thursday 
+T12	NELL_humanagent 52 58	Brenda 
+T13	NELL_abstractthing 190 193	way 
+T14	NELL_humanagent 1152 1155	ENA 
+T15	NELL_month 1159 1164	April 
+T16	NELL_abstractthing 1173 1180	meeting 
+T17	NELL_mediacompany 1212 1216	hour 
+T18	NELL_academicfield 1226 1230	plan 
+T19	NELL_abstractthing 17 24	meeting 
+T20	NELL_dayofweek 28 36	Thursday 
+T21	NELL_humanagent 52 58	Brenda 
+T22	NELL_abstractthing 190 193	way 
+T23	NELL_humanagent 1152 1155	ENA 
+T24	NELL_month 1159 1164	April 
+T25	NELL_abstractthing 1173 1180	meeting 
+T26	NELL_mediacompany 1212 1216	hour 
+T27	NELL_academicfield 1226 1230	plan 

@@ -1,0 +1,48 @@
+T1	EventName 214 239	RETIREMENT/FAREWELL PARTY
+T2	Person 244 254	LARRY IZZO
+T3	Person 602 612	Colleagues
+T4	Person 642 652	Larry Izzo
+T5	Person 697 702	Larry
+T6	Date 904 922	Friday, January 26
+T7	TimeSpan 923 935	3 PM to 5 PM
+T8	Location 839 868;869 886;887 903	Doubletree Allen Center Hotel 400 Dallas Street LaSalle Ballroom
+T9	NELL_person 697 702	Larry 
+T10	NELL_abstractthing 719 724	years 
+T11	NELL_company 749 754	Enron 
+T12	NELL_person 759 768	President 
+T13	NELL_person 793 802	President 
+T14	NELL_month 825 829	July 
+T15	NELL_hotel 839 849	Doubletree 
+T16	NELL_humanagent 850 855	Allen 
+T17	NELL_athlete 856 862	Center 
+T18	NELL_hotel 863 868	Hotel 
+T19	NELL_city 873 879	Dallas 
+T20	NELL_street 880 886	Street 
+T21	NELL_city 887 894	LaSalle 
+T22	NELL_location 895 903	Ballroom 
+T23	NELL_dayofweek 904 910	Friday 
+T24	NELL_month 912 919	January 
+T25	NELL_humanagent 925 927	PM 
+T26	NELL_female 944 948	Mary 
+T27	NELL_humanagent 949 954	Garza 
+T28	NELL_person 984 990	e-mail 
+T29	NELL_person 697 702	Larry 
+T30	NELL_abstractthing 719 724	years 
+T31	NELL_company 749 754	Enron 
+T32	NELL_person 759 768	President 
+T33	NELL_person 793 802	President 
+T34	NELL_month 825 829	July 
+T35	NELL_hotel 839 849	Doubletree 
+T36	NELL_humanagent 850 855	Allen 
+T37	NELL_athlete 856 862	Center 
+T38	NELL_hotel 863 868	Hotel 
+T39	NELL_city 873 879	Dallas 
+T40	NELL_street 880 886	Street 
+T41	NELL_city 887 894	LaSalle 
+T42	NELL_location 895 903	Ballroom 
+T43	NELL_dayofweek 904 910	Friday 
+T44	NELL_month 912 919	January 
+T45	NELL_humanagent 925 927	PM 
+T46	NELL_female 944 948	Mary 
+T47	NELL_humanagent 949 954	Garza 
+T48	NELL_person 984 990	e-mail 

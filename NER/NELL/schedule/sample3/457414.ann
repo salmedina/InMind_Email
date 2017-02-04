@@ -1,0 +1,18 @@
+T1	Location 156 175	In front of EB3746A
+T2	Date 95 115	Tuesday, May 2, 2001
+T3	EventName 21 34	floor meeting
+T4	Topic 51 67	general overview
+T5	EventName 72 75	Q&A
+T6	Person 12 14	us
+T7	Person 177 192	Philippe & Greg
+T8	TimeSpan 123 143	2:00 p.m. - 3:00 p.m
+T9	NELL_dayofweek 95 102	Tuesday 
+T10	NELL_magazine 116 120	Time 
+T11	NELL_geopoliticalorganization 159 164	front 
+T12	NELL_person 177 185	Philippe 
+T13	NELL_person 188 192	Greg 
+T14	NELL_dayofweek 95 102	Tuesday 
+T15	NELL_magazine 116 120	Time 
+T16	NELL_geopoliticalorganization 159 164	front 
+T17	NELL_person 177 185	Philippe 
+T18	NELL_person 188 192	Greg 

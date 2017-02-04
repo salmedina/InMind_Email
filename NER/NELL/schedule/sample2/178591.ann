@@ -1,0 +1,28 @@
+T1	Person 31 34	you
+T2	Date 1753 1772	Wednesday, August 8
+T3	Date 3504 3523	Tuesday, August 8th
+T4	TimeSpan 3527 3537	11:30-1:30
+T5	Location 3541 3551	Board Room
+T6	Person 3579 3612	Harvard Business School Professor
+T7	Person 3616 3632	David A. Garvin*
+T8	Person 3636 3652	Professor Garvin
+T9	Topic 3760 3773	Modern Giants
+T10	EventName 3827 3867	Morgan Stanley European Strategy Seminar
+T11	NELL_city 8 14	london 
+T12	NELL_organization 3827 3833	Morgan 
+T13	NELL_person 3834 3841	Stanley 
+T14	NELL_item 3842 3850	European 
+T15	NELL_abstractthing 3851 3859	Strategy 
+T16	NELL_humanagent 3943 3945	Ma 
+T17	NELL_university 3953 3956	HBS 
+T18	NELL_item 3992 3997	Parts 
+T19	NELL_musicartist 4037 4044	example 
+T20	NELL_city 8 14	london 
+T21	NELL_organization 3827 3833	Morgan 
+T22	NELL_person 3834 3841	Stanley 
+T23	NELL_item 3842 3850	European 
+T24	NELL_abstractthing 3851 3859	Strategy 
+T25	NELL_humanagent 3943 3945	Ma 
+T26	NELL_university 3953 3956	HBS 
+T27	NELL_item 3992 3997	Parts 
+T28	NELL_musicartist 4037 4044	example 

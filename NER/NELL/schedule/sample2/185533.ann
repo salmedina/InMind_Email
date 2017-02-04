@@ -1,0 +1,23 @@
+T1	Date 6 35	Thursday, February 7th , 2002
+T2	TimeSpan 140 150	10am-12 pm
+T3	TimeSpan 155 164	2pm- 4 pm
+T4	Person 187 190	you
+T5	Date 361 369	tomorrow
+T6	Time 447 451	10am
+T7	Time 476 479	2pm
+T8	NELL_dayofweek 6 14	Thursday 
+T9	NELL_month 16 24	February 
+T10	NELL_humanagent 162 164	pm 
+T11	NELL_organization 217 224	session 
+T12	NELL_abstractthing 309 316	answers 
+T13	NELL_musicsong 325 334	questions 
+T14	NELL_humanagent 573 577	Neil 
+T15	NELL_person 578 584	Davies 
+T16	NELL_dayofweek 6 14	Thursday 
+T17	NELL_month 16 24	February 
+T18	NELL_humanagent 162 164	pm 
+T19	NELL_organization 217 224	session 
+T20	NELL_abstractthing 309 316	answers 
+T21	NELL_musicsong 325 334	questions 
+T22	NELL_humanagent 573 577	Neil 
+T23	NELL_person 578 584	Davies 

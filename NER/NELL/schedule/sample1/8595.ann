@@ -1,0 +1,22 @@
+T1	Date 6 31	Tuesday, October 30, 2001
+T2	TimeSpan 32 47	2:00 PM-3:00 PM
+T3	Person 231 234	Jim
+T4	Topic 195 228	push EPSA to do something on this
+T5	NELL_dayofweek 6 13	Tuesday 
+T6	NELL_month 15 22	October 
+T7	NELL_humanagent 45 47	PM 
+T8	NELL_location 60 67	Central 
+T9	NELL_magazine 68 72	Time 
+T10	NELL_country 79 85	Canada 
+T11	NELL_stateorprovince 148 154	course 
+T12	NELL_agent 200 204	EPSA
+T13	NELL_person 231 234	Jim 
+T14	NELL_dayofweek 6 13	Tuesday 
+T15	NELL_month 15 22	October 
+T16	NELL_humanagent 45 47	PM 
+T17	NELL_location 60 67	Central 
+T18	NELL_magazine 68 72	Time 
+T19	NELL_country 79 85	Canada 
+T20	NELL_stateorprovince 148 154	course 
+T21	NELL_agent 200 204	EPSA
+T22	NELL_person 231 234	Jim 

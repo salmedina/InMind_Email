@@ -1,0 +1,15 @@
+T1	Date 6 33	Tuesday, September 11, 2001
+T2	TimeSpan 34 88	3:00 PM-4:00 PM (GMT-06:00) Central Time (US & Canada)
+T3	Location 97 105	3AC 1603
+T4	NELL_dayofweek 6 13	Tuesday 
+T5	NELL_month 15 24	September 
+T6	NELL_humanagent 47 49	PM 
+T7	NELL_location 62 69	Central 
+T8	NELL_magazine 70 74	Time 
+T9	NELL_country 81 87	Canada 
+T10	NELL_dayofweek 6 13	Tuesday 
+T11	NELL_month 15 24	September 
+T12	NELL_humanagent 47 49	PM 
+T13	NELL_location 62 69	Central 
+T14	NELL_magazine 70 74	Time 
+T15	NELL_country 81 87	Canada 

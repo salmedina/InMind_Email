@@ -1,0 +1,10 @@
+T1	TimeSpan 30 41	1:30 - 2:30
+T2	Date 43 61	Thursday, April 20
+T3	EventName 4 11	meeting
+T4	Location 65 76;77 86	Conference  Room 38C1
+T5	NELL_abstractthing 4 11	meeting 
+T6	NELL_dayofweek 43 51	Thursday 
+T7	NELL_month 53 58	April 
+T8	NELL_abstractthing 4 11	meeting 
+T9	NELL_dayofweek 43 51	Thursday 
+T10	NELL_month 53 58	April 

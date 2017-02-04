@@ -1,0 +1,54 @@
+T1	Organization 472 486	Tax department
+T2	Person 510 514	Rick
+T3	Date 529 541	October 30th
+T4	TimeSpan 547 563	2:00 - 3:00 p.m.
+T5	Location 567 573	EB1701
+T6	Person 1014 1030	Senior Directors
+T7	Person 1116 1120	Rick
+T8	Person 1216 1222	Bobbie
+T9	Person 1227 1241	Melissa Becker
+T10	Person 1310 1314	Rick
+T11	NELL_academicfield 324 335	information 
+T12	NELL_humanagent 344 348	Rick 
+T13	NELL_profession 357 369	participants 
+T14	NELL_abstractthing 424 437	communication 
+T15	NELL_humanagent 510 514	Rick 
+T16	NELL_month 529 536	October 
+T17	NELL_person 582 587	space 
+T18	NELL_agent 617 621	spot 
+T19	NELL_person 643 648	Moody 
+T20	NELL_abstractthing 653 658	email 
+T21	NELL_magazine 674 680	people 
+T22	NELL_room 698 702	room 
+T23	NELL_musicsong 1317 1326	Questions 
+T24	NELL_wine 1339 1346	Melissa 
+T25	NELL_humanagent 1400 1404	Rick 
+T26	NELL_musicsong 1443 1452	questions 
+T27	NELL_officeitem 1459 1467	envelope 
+T28	NELL_wine 1488 1495	Melissa 
+T29	NELL_humanagent 1508 1512	Rick 
+T30	NELL_abstractthing 1539 1548	fair game 
+T31	NELL_person 1552 1555	Bob 
+T32	NELL_scientist 1556 1563	Hermann 
+T33	NELL_academicfield 324 335	information 
+T34	NELL_humanagent 344 348	Rick 
+T35	NELL_profession 357 369	participants 
+T36	NELL_abstractthing 424 437	communication 
+T37	NELL_humanagent 510 514	Rick 
+T38	NELL_month 529 536	October 
+T39	NELL_person 582 587	space 
+T40	NELL_agent 617 621	spot 
+T41	NELL_person 643 648	Moody 
+T42	NELL_abstractthing 653 658	email 
+T43	NELL_magazine 674 680	people 
+T44	NELL_room 698 702	room 
+T45	NELL_musicsong 1317 1326	Questions 
+T46	NELL_wine 1339 1346	Melissa 
+T47	NELL_humanagent 1400 1404	Rick 
+T48	NELL_musicsong 1443 1452	questions 
+T49	NELL_officeitem 1459 1467	envelope 
+T50	NELL_wine 1488 1495	Melissa 
+T51	NELL_humanagent 1508 1512	Rick 
+T52	NELL_abstractthing 1539 1548	fair game 
+T53	NELL_person 1552 1555	Bob 
+T54	NELL_scientist 1556 1563	Hermann 

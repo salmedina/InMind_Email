@@ -1,0 +1,44 @@
+T1	Date 43 64	Thursday's (07/06/00)
+T2	EventName 96 115	weekly Japan update
+T3	Time 119 127	6:00 p.m
+T4	Person 175 183	Joe Hirl
+T5	Person 200 202	me
+T6	Location 229 240;241 250	Conference  room 21C2
+T7	NELL_organization 6 10	Team 
+T8	NELL_humanagent 13 17	This 
+T9	NELL_dayofweek 43 51	Thursday 
+T10	NELL_country 103 108	Japan 
+T11	NELL_city 129 136	Houston 
+T12	NELL_magazine 137 141	time 
+T13	NELL_person 175 178	Joe 
+T14	NELL_organization 195 199	copy 
+T15	NELL_city 255 262	Houston 
+T16	NELL_profession 263 275	participants 
+T17	NELL_programminglanguage 337 341	Code 
+T18	NELL_profession 443 452	employees 
+T19	NELL_tableitem 499 511	phone number 
+T20	NELL_company 514 519	Enron 
+T21	NELL_country 520 525	Japan 
+T22	NELL_geometricshape 540 546	Square 
+T23	NELL_geolocatablething 553 557	West 
+T24	NELL_city 598 603	Tokyo 
+T25	NELL_tableitem 604 609	Phone 
+T26	NELL_organization 6 10	Team 
+T27	NELL_humanagent 13 17	This 
+T28	NELL_dayofweek 43 51	Thursday 
+T29	NELL_country 103 108	Japan 
+T30	NELL_city 129 136	Houston 
+T31	NELL_magazine 137 141	time 
+T32	NELL_person 175 178	Joe 
+T33	NELL_organization 195 199	copy 
+T34	NELL_city 255 262	Houston 
+T35	NELL_profession 263 275	participants 
+T36	NELL_programminglanguage 337 341	Code 
+T37	NELL_profession 443 452	employees 
+T38	NELL_tableitem 499 511	phone number 
+T39	NELL_company 514 519	Enron 
+T40	NELL_country 520 525	Japan 
+T41	NELL_geometricshape 540 546	Square 
+T42	NELL_geolocatablething 553 557	West 
+T43	NELL_city 598 603	Tokyo 
+T44	NELL_tableitem 604 609	Phone 

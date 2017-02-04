@@ -1,0 +1,18 @@
+T1	EventName 2 25	conference call meeting
+T2	Time 46 60	11:30 am today
+T3	Date 62 69	March 7
+T4	Topic 82 98	EES Negative CTC
+T5	Location 117 124	EB-4746
+T6	Person 152 172	Houston participants
+T7	Telephone 222 234	888-422-7137
+T8	Telephone 397 409	713-853-3226
+T9	NELL_televisionshow 55 60	today 
+T10	NELL_month 62 67	March 
+T11	NELL_city 152 159	Houston 
+T12	NELL_profession 160 172	participants 
+T13	NELL_abstractthing 420 426	Marcia 
+T14	NELL_televisionshow 55 60	today 
+T15	NELL_month 62 67	March 
+T16	NELL_city 152 159	Houston 
+T17	NELL_profession 160 172	participants 
+T18	NELL_abstractthing 420 426	Marcia 

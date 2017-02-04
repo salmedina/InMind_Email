@@ -1,0 +1,23 @@
+T1	EventName 0 12	PRC Meetings
+T2	Date 22 43	Monday, November 20th
+T3	Person 49 52	you
+T4	Person 403 417	ELLEDGE, SUSAN
+T5	Person 422 435	ESPEY, DARREN
+T6	Person 440 454	KINSEY, LISA M
+T7	Person 459 473	LENART, KIRK D
+T8	Person 478 495	MAHMASSANI, SOUAD
+T9	Person 500 516	PEREIRA, SUSAN W
+T10	Person 521 535	RING, ANDREA K
+T11	Person 540 554	SCHRAB, MARK L
+T12	Person 559 573	WHITE, JESSICA
+T13	Person 578 595	WILLIAMS, JASON C
+T14	NELL_geopoliticalorganization 0 3	PRC 
+T15	NELL_dayofweek 22 28	Monday 
+T16	NELL_month 30 38	November 
+T17	NELL_food 96 99	PEP 
+T18	NELL_profession 176 185	employees 
+T19	NELL_geopoliticalorganization 0 3	PRC 
+T20	NELL_dayofweek 22 28	Monday 
+T21	NELL_month 30 38	November 
+T22	NELL_food 96 99	PEP 
+T23	NELL_profession 176 185	employees 

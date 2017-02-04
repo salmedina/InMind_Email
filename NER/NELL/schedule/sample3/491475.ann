@@ -1,0 +1,38 @@
+T1	Time 802 810	2:30 p.m
+T2	Date 815 825	October 18
+T3	Location 829 884	City Hall Annex (across the street west from City Hall)
+T4	Person 935 938	you
+T5	Person 892 894	me
+T6	Person 1009 1021	Gayle Ramsey
+T7	NELL_politicsbill 40 47	article 
+T8	NELL_humanagent 51 55	page 
+T9	NELL_televisionshow 83 88	today 
+T10	NELL_company 91 100	Chronicle 
+T11	NELL_mammal 177 182	value 
+T12	NELL_item 207 213	blocks 
+T13	NELL_perceptionaction 774 798	important public hearing 
+T14	NELL_month 815 822	October 
+T15	NELL_geopoliticallocation 829 833	City 
+T16	NELL_geolocatablething 834 838	Hall 
+T17	NELL_attraction 874 883	City Hall 
+T18	NELL_geopoliticallocation 874 878	City 
+T19	NELL_geolocatablething 879 883	Hall 
+T20	NELL_product 909 913	ride 
+T21	NELL_abstractthing 921 928	meeting 
+T22	NELL_perceptionaction 998 1005	hearing 
+T23	NELL_politicsbill 40 47	article 
+T24	NELL_humanagent 51 55	page 
+T25	NELL_televisionshow 83 88	today 
+T26	NELL_company 91 100	Chronicle 
+T27	NELL_mammal 177 182	value 
+T28	NELL_item 207 213	blocks 
+T29	NELL_perceptionaction 774 798	important public hearing 
+T30	NELL_month 815 822	October 
+T31	NELL_geopoliticallocation 829 833	City 
+T32	NELL_geolocatablething 834 838	Hall 
+T33	NELL_attraction 874 883	City Hall 
+T34	NELL_geopoliticallocation 874 878	City 
+T35	NELL_geolocatablething 879 883	Hall 
+T36	NELL_product 909 913	ride 
+T37	NELL_abstractthing 921 928	meeting 
+T38	NELL_perceptionaction 998 1005	hearing 

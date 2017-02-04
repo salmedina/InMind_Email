@@ -1,0 +1,28 @@
+T1	Time 447 454	9:00 am
+T2	Location 458 487	Kurt Huneke's conference room
+T3	Person 273 278	Steve
+T4	Date 435 443	April 25
+T5	Date 425 432	Tuesday
+T6	Topic 328 358;359 395	Enron Wind's policy positions  and regulatory and legislative needs
+T7	NELL_ceo 273 278	Steve 
+T8	NELL_abstractthing 298 303	email 
+T9	NELL_abstractthing 309 316	meeting 
+T10	NELL_company 328 333	Enron 
+T11	NELL_weatherphenomenon 334 338	Wind 
+T12	NELL_abstractthing 401 408	meeting 
+T13	NELL_dayofweek 425 432	Tuesday 
+T14	NELL_month 435 440	April 
+T15	NELL_radiostation 458 462	Kurt 
+T16	NELL_room 472 487	conference room 
+T17	NELL_agent 558 561	Hap 
+T18	NELL_ceo 273 278	Steve 
+T19	NELL_abstractthing 298 303	email 
+T20	NELL_abstractthing 309 316	meeting 
+T21	NELL_company 328 333	Enron 
+T22	NELL_weatherphenomenon 334 338	Wind 
+T23	NELL_abstractthing 401 408	meeting 
+T24	NELL_dayofweek 425 432	Tuesday 
+T25	NELL_month 435 440	April 
+T26	NELL_radiostation 458 462	Kurt 
+T27	NELL_room 472 487	conference room 
+T28	NELL_agent 558 561	Hap 

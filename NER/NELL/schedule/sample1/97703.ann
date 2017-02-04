@@ -1,0 +1,46 @@
+T1	EventName 24 67	Revenue Management Science Kick-off Meeting
+T2	Date 72 92	Wednesday, August 23
+T3	TimeSpan 99 115	10:30 - 5:00 p.m
+T4	Topic 210 223;224 298	identify and  prioritize our forecasting and optimization efforts for Revenue Management
+T5	Person 424 434	Kim Watson
+T6	Telephone 438 450	713-853-3098
+T7	Date 456 473	Friday, August 18
+T8	Location 132 147;148 168	Enron Building  conference room 49C1
+T9	NELL_academicfield 7 11	plan 
+T10	NELL_dayofweek 72 81	Wednesday 
+T11	NELL_month 83 89	August 
+T12	NELL_company 132 137	Enron 
+T13	NELL_abstractthing 191 198	meeting 
+T14	NELL_abstractthing 239 250	forecasting 
+T15	NELL_abstractthing 268 275	efforts 
+T16	NELL_abstractthing 280 298	Revenue Management 
+T17	NELL_academicfield 307 317	attendance 
+T18	NELL_city 321 328	Houston 
+T19	NELL_abstractthing 338 345	meeting 
+T20	NELL_humanagent 381 387	agenda 
+T21	NELL_abstractthing 401 408	meeting 
+T22	NELL_abstractthing 424 427	Kim 
+T23	NELL_person 424 434	Kim Watson 
+T24	NELL_humanagent 428 434	Watson 
+T25	NELL_dayofweek 456 462	Friday 
+T26	NELL_month 464 470	August 
+T27	NELL_humanagent 506 511	Lunch 
+T28	NELL_academicfield 7 11	plan 
+T29	NELL_dayofweek 72 81	Wednesday 
+T30	NELL_month 83 89	August 
+T31	NELL_company 132 137	Enron 
+T32	NELL_abstractthing 191 198	meeting 
+T33	NELL_abstractthing 239 250	forecasting 
+T34	NELL_abstractthing 268 275	efforts 
+T35	NELL_abstractthing 280 298	Revenue Management 
+T36	NELL_academicfield 307 317	attendance 
+T37	NELL_city 321 328	Houston 
+T38	NELL_abstractthing 338 345	meeting 
+T39	NELL_humanagent 381 387	agenda 
+T40	NELL_abstractthing 401 408	meeting 
+T41	NELL_abstractthing 424 427	Kim 
+T42	NELL_person 424 434	Kim Watson 
+T43	NELL_humanagent 428 434	Watson 
+T44	NELL_dayofweek 456 462	Friday 
+T45	NELL_month 464 470	August 
+T46	NELL_humanagent 506 511	Lunch 

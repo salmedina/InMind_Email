@@ -1,0 +1,24 @@
+T1	EventName 65 84	EWS Brown Bag Lunch
+T2	Person 118 130	Keith Fraley
+T3	Person 135 145	Peter Hoyt
+T4	Topic 155 192	Visualizing your Data and Marketplace
+T5	Date 337 363	Thursday, October 18, 2001
+T8	Location 388 394	EB 5C2
+T9	Person 477 493	Kathie Grabstald
+T6	TimeSpan 364 387	11:30 a.m. - 12:30 p.m.
+T9	NELL_humanagent 2 6	MARK 
+T10	NELL_dayofweek 337 345	Thursday 
+T11	NELL_month 347 354	October 
+T12	NELL_weatherphenomenon 370 374	a.m. 
+T13	NELL_humanagent 411 416	lunch 
+T14	NELL_food 450 456	drinks 
+T15	NELL_item 461 468	dessert 
+T16	NELL_person 477 483	Kathie 
+T17	NELL_humanagent 2 6	MARK 
+T18	NELL_dayofweek 337 345	Thursday 
+T19	NELL_month 347 354	October 
+T20	NELL_weatherphenomenon 370 374	a.m. 
+T21	NELL_humanagent 411 416	lunch 
+T22	NELL_food 450 456	drinks 
+T23	NELL_item 461 468	dessert 
+T24	NELL_person 477 483	Kathie 

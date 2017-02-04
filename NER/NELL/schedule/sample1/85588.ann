@@ -1,0 +1,105 @@
+T1	Person 593 605	Mr. Kaminski
+T2	Person 619 629	Bob Thomas
+T3	Person 631 642	Shmuel Oren
+T4	Person 647 648	I
+T5	Person 1369 1379	Dennis Ray
+T6	Organization 674 679;680 715	Power Systems Engineering Research Center
+T7	EventName 727 752;753 760	Industrial Advisory Board meeting
+T8	Location 764 777	Oak Brook, IL
+T9	DateSpan 798 813	May 31 - June 1
+T10	Person 833 838	Lance
+T11	Person 843 847	Alex
+T12	Telephone 1448 1460	608-265-3808
+T13	Organization 1406 1447	Power Systems Engineering Research Center
+T14	NELL_abstractthing 274 280	moment 
+T15	NELL_recordlabel 317 322	touch 
+T16	NELL_academicfield 327 331	plan 
+T17	NELL_person 619 622	Bob 
+T18	NELL_person 619 629	Bob Thomas 
+T19	NELL_person 623 629	Thomas 
+T20	NELL_agent 638 642	Oren 
+T21	NELL_abstractthing 674 679	Power 
+T22	NELL_academicfield 680 687	Systems 
+T23	NELL_academicfield 688 699	Engineering 
+T24	NELL_abstractthing 700 708	Research 
+T25	NELL_athlete 709 715	Center 
+T26	NELL_event 738 746	Advisory 
+T27	NELL_abstractthing 747 752	Board 
+T28	NELL_abstractthing 753 760	meeting 
+T29	NELL_location 764 773	Oak Brook 
+T30	NELL_plant 764 767	Oak 
+T31	NELL_location 768 773	Brook 
+T32	NELL_stateorprovince 775 777	IL 
+T33	NELL_abstractthing 798 804	May 31
+T34	NELL_abstractthing 807 813	June 1
+T35	NELL_month 807 811	June 
+T36	NELL_humanagent 833 838	Lance 
+T37	NELL_male 843 847	Alex 
+T38	NELL_sportsteam 880 902	university researchers 
+T39	NELL_abstractthing 891 902	researchers 
+T40	NELL_abstractthing 940 947	meeting 
+T41	NELL_abstractthing 1004 1012	projects 
+T42	NELL_abstractthing 1104 1114	discussion 
+T43	NELL_abstractthing 1134 1140	issues 
+T44	NELL_profession 1159 1169	executives 
+T45	NELL_company 1191 1197	dialog 
+T46	NELL_sportsteam 1203 1225	university researchers 
+T47	NELL_abstractthing 1214 1225	researchers 
+T48	NELL_musicsong 1263 1272	questions 
+T49	NELL_musicsong 1329 1338	questions 
+T50	NELL_person 1369 1375	Dennis 
+T51	NELL_person 1369 1379	Dennis Ray 
+T52	NELL_humanagent 1376 1379	Ray 
+T53	NELL_jobposition 1387 1396	Executive 
+T54	NELL_jobposition 1397 1405	Director 
+T55	NELL_abstractthing 1406 1411	Power 
+T56	NELL_academicfield 1412 1419	Systems 
+T57	NELL_academicfield 1420 1431	Engineering 
+T58	NELL_abstractthing 1432 1440	Research 
+T59	NELL_athlete 1441 1447	Center 
+T60	NELL_abstractthing 274 280	moment 
+T61	NELL_recordlabel 317 322	touch 
+T62	NELL_academicfield 327 331	plan 
+T63	NELL_person 619 622	Bob 
+T64	NELL_person 619 629	Bob Thomas 
+T65	NELL_person 623 629	Thomas 
+T66	NELL_agent 638 642	Oren 
+T67	NELL_abstractthing 674 679	Power 
+T68	NELL_academicfield 680 687	Systems 
+T69	NELL_academicfield 688 699	Engineering 
+T70	NELL_abstractthing 700 708	Research 
+T71	NELL_athlete 709 715	Center 
+T72	NELL_event 738 746	Advisory 
+T73	NELL_abstractthing 747 752	Board 
+T74	NELL_abstractthing 753 760	meeting 
+T75	NELL_location 764 773	Oak Brook 
+T76	NELL_plant 764 767	Oak 
+T77	NELL_location 768 773	Brook 
+T78	NELL_stateorprovince 775 777	IL 
+T79	NELL_abstractthing 798 804	May 31
+T80	NELL_abstractthing 807 813	June 1
+T81	NELL_month 807 811	June 
+T82	NELL_humanagent 833 838	Lance 
+T83	NELL_male 843 847	Alex 
+T84	NELL_sportsteam 880 902	university researchers 
+T85	NELL_abstractthing 891 902	researchers 
+T86	NELL_abstractthing 940 947	meeting 
+T87	NELL_abstractthing 1004 1012	projects 
+T88	NELL_abstractthing 1104 1114	discussion 
+T89	NELL_abstractthing 1134 1140	issues 
+T90	NELL_profession 1159 1169	executives 
+T91	NELL_company 1191 1197	dialog 
+T92	NELL_sportsteam 1203 1225	university researchers 
+T93	NELL_abstractthing 1214 1225	researchers 
+T94	NELL_musicsong 1263 1272	questions 
+T95	NELL_musicsong 1329 1338	questions 
+T96	NELL_person 1369 1375	Dennis 
+T97	NELL_person 1369 1379	Dennis Ray 
+T98	NELL_humanagent 1376 1379	Ray 
+T99	NELL_jobposition 1387 1396	Executive 
+T100	NELL_jobposition 1397 1405	Director 
+T101	NELL_abstractthing 1406 1411	Power 
+T102	NELL_academicfield 1412 1419	Systems 
+T103	NELL_academicfield 1420 1431	Engineering 
+T104	NELL_abstractthing 1432 1440	Research 
+T105	NELL_athlete 1441 1447	Center 

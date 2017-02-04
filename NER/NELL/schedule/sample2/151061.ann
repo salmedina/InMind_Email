@@ -1,0 +1,25 @@
+T2	Topic 328 358;359 395	Enron Wind's policy positions  and regulatory and legislative needs
+T1	Person 273 278	Steve
+T3	Date 425 434;435 443	Tuesday,  April 25
+T4	NELL_ceo 273 278	Steve 
+T5	NELL_abstractthing 298 303	email 
+T6	NELL_abstractthing 309 316	meeting 
+T7	NELL_company 328 333	Enron 
+T8	NELL_weatherphenomenon 334 338	Wind 
+T9	NELL_abstractthing 401 408	meeting 
+T10	NELL_dayofweek 425 432	Tuesday 
+T11	NELL_month 435 440	April 
+T12	NELL_radiostation 458 462	Kurt 
+T13	NELL_room 472 487	conference room 
+T14	NELL_agent 558 561	Hap 
+T15	NELL_ceo 273 278	Steve 
+T16	NELL_abstractthing 298 303	email 
+T17	NELL_abstractthing 309 316	meeting 
+T18	NELL_company 328 333	Enron 
+T19	NELL_weatherphenomenon 334 338	Wind 
+T20	NELL_abstractthing 401 408	meeting 
+T21	NELL_dayofweek 425 432	Tuesday 
+T22	NELL_month 435 440	April 
+T23	NELL_radiostation 458 462	Kurt 
+T24	NELL_room 472 487	conference room 
+T25	NELL_agent 558 561	Hap 

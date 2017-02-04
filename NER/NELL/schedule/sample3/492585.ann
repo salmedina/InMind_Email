@@ -1,0 +1,23 @@
+T1	EventName 16 23	meeting
+T2	Date 27 52	Wednesday, August 2, 2000
+T3	TimeSpan 58 77	9:00 am until 10:00
+T4	Location 101 107	EB3321
+T5	Topic 136 147	Triple Lutz
+T6	Topic 153 170	Trantula Projects
+T7	Person 203 206	you
+T8	Date 288 302	AUGUST 2, 2000
+T9	TimeSpan 315 332	9:00am - 10:00 am
+T10	Location 345 351	EB3321
+T11	Topic 374 393;394 417	PROJECT TRIPLE LUTZ        PROJECT TRANTULA
+T12	NELL_abstractthing 16 23	meeting 
+T13	NELL_dayofweek 27 36	Wednesday 
+T14	NELL_month 38 44	August 
+T15	NELL_vein 143 147	Lutz 
+T16	NELL_arachnid 153 161	Trantula 
+T17	NELL_abstractthing 162 170	Projects 
+T18	NELL_abstractthing 16 23	meeting 
+T19	NELL_dayofweek 27 36	Wednesday 
+T20	NELL_month 38 44	August 
+T21	NELL_vein 143 147	Lutz 
+T22	NELL_arachnid 153 161	Trantula 
+T23	NELL_abstractthing 162 170	Projects 

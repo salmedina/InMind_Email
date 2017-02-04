@@ -1,0 +1,25 @@
+T1	Time 28 32	10am
+T2	Location 36 51	conf. room 5990
+T3	Person 62 73	T.Jae Black
+T4	NELL_abstractthing 4 11	meeting 
+T5	NELL_humanagent 36 40	conf 
+T6	NELL_room 42 46	room 
+T7	NELL_color 68 73	Black 
+T8	NELL_location 74 78	East 
+T9	NELL_abstractthing 79 84	Power 
+T10	NELL_abstractthing 85 92	Trading 
+T11	NELL_jobposition 93 102	Assistant 
+T12	NELL_person 106 111	Kevin 
+T13	NELL_company 112 118	Presto 
+T14	NELL_bodypart 154 158	cell 
+T15	NELL_abstractthing 4 11	meeting 
+T16	NELL_humanagent 36 40	conf 
+T17	NELL_room 42 46	room 
+T18	NELL_color 68 73	Black 
+T19	NELL_location 74 78	East 
+T20	NELL_abstractthing 79 84	Power 
+T21	NELL_abstractthing 85 92	Trading 
+T22	NELL_jobposition 93 102	Assistant 
+T23	NELL_person 106 111	Kevin 
+T24	NELL_company 112 118	Presto 
+T25	NELL_bodypart 154 158	cell 

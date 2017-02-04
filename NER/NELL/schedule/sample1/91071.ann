@@ -1,0 +1,67 @@
+T1	EventName 2007 2033;2035 2072	seminar visit by Professor Darrell Duffie of Stanford University
+T2	Person 2130 2137	Darrell
+T5	Date 2161 2181	Thursday, January 10
+T6	Person 2446 2453	Praveen
+T7	Person 2456 2469	Praveen Kumar
+T6	NELL_agent 0 5	Vince
+T7	NELL_company 28 33	Enron 
+T8	NELL_buildingfeature 36 50	trading floors 
+T9	NELL_buildingfeature 44 50	floors 
+T10	NELL_person 62 68	Arthur 
+T11	NELL_geopoliticallocation 79 83	town 
+T12	NELL_dayofweek 170 176	Friday 
+T13	NELL_humanagent 266 271	group 
+T14	NELL_agent 296 303	Darrell
+T15	NELL_humanagent 308 313	lunch 
+T16	NELL_person 883 889	Arthur 
+T17	NELL_company 891 896	Enron 
+T18	NELL_buildingfeature 899 913	trading floors 
+T19	NELL_buildingfeature 907 913	floors 
+T20	NELL_radiostation 920 924	week 
+T21	NELL_agriculturalproduct 956 963	results 
+T22	NELL_chemical 986 989	gas 
+T23	NELL_geopoliticalorganization 1008 1013	units 
+T24	NELL_dayofweek 1032 1040	Thursday 
+T25	NELL_dayofweek 1042 1051	Wednesday 
+T26	NELL_dayofweek 1055 1061	Friday 
+T27	NELL_radiostation 1171 1175	week 
+T28	NELL_person 1197 1204	Darrell 
+T29	NELL_dayofweek 1218 1226	Thursday 
+T30	NELL_visualizablescene 1246 1258	more
+details
+T31	NELL_landscapefeatures 1251 1258	details 
+T32	NELL_agent 2130 2137	Darrell
+T33	NELL_dayofweek 2161 2169	Thursday 
+T34	NELL_abstractthing 2171 2181	January 10
+T35	NELL_month 2171 2178	January 
+T37	NELL_agent 0 5	Vince
+T38	NELL_company 28 33	Enron 
+T39	NELL_buildingfeature 36 50	trading floors 
+T40	NELL_buildingfeature 44 50	floors 
+T41	NELL_person 62 68	Arthur 
+T42	NELL_geopoliticallocation 79 83	town 
+T43	NELL_dayofweek 170 176	Friday 
+T44	NELL_humanagent 266 271	group 
+T45	NELL_agent 296 303	Darrell
+T46	NELL_humanagent 308 313	lunch 
+T47	NELL_person 883 889	Arthur 
+T48	NELL_company 891 896	Enron 
+T49	NELL_buildingfeature 899 913	trading floors 
+T50	NELL_buildingfeature 907 913	floors 
+T51	NELL_radiostation 920 924	week 
+T52	NELL_agriculturalproduct 956 963	results 
+T53	NELL_chemical 986 989	gas 
+T54	NELL_geopoliticalorganization 1008 1013	units 
+T55	NELL_dayofweek 1032 1040	Thursday 
+T56	NELL_dayofweek 1042 1051	Wednesday 
+T57	NELL_dayofweek 1055 1061	Friday 
+T58	NELL_radiostation 1171 1175	week 
+T59	NELL_person 1197 1204	Darrell 
+T60	NELL_dayofweek 1218 1226	Thursday 
+T61	NELL_visualizablescene 1246 1258	more
+details
+T62	NELL_landscapefeatures 1251 1258	details 
+T63	NELL_agent 2130 2137	Darrell
+T64	NELL_dayofweek 2161 2169	Thursday 
+T65	NELL_abstractthing 2171 2181	January 10
+T66	NELL_month 2171 2178	January 

@@ -1,0 +1,23 @@
+T1	Person 144 147	Kay
+T2	Person 0 1	I
+T3	TimeSpan 95 113	1:00 pm to 4:00 pm
+T4	EventName 31 34	QBR
+T5	Person 39 43	Dave
+T6	Person 48 60	Mark Frevert
+T7	Date 69 77;78 89	Tuesday  August 29th
+T8	NELL_humanagent 39 43	Dave 
+T9	NELL_humanagent 48 52	Mark 
+T10	NELL_dayofweek 69 76	Tuesday 
+T11	NELL_month 78 84	August 
+T12	NELL_humanagent 100 102	pm 
+T13	NELL_humanagent 111 113	pm 
+T14	NELL_radiostation 115 119	work 
+T15	NELL_person 144 147	Kay 
+T16	NELL_humanagent 39 43	Dave 
+T17	NELL_humanagent 48 52	Mark 
+T18	NELL_dayofweek 69 76	Tuesday 
+T19	NELL_month 78 84	August 
+T20	NELL_humanagent 100 102	pm 
+T21	NELL_humanagent 111 113	pm 
+T22	NELL_radiostation 115 119	work 
+T23	NELL_person 144 147	Kay 

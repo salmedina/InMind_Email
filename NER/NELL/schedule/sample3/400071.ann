@@ -1,0 +1,11 @@
+T1	EventName 18 33	conference call
+T2	Date 98 123	today, Friday, November 9
+T3	Topic 50 69	does not take place
+T4	EventName 2592 2609	update conference
+T5	Date 2618 2624	Monday
+T6	Date 2645 2670	=09=09Monday, November 12
+T7	Time 2680 2698	09=098:30 AM (CST)
+T8	Telephone 2710 2737	091-800-713-8600 (domestic)
+T9	Telephone 2740 2765	09=09801-983-4017 (int'l)
+T10	NELL_disease 174 183	confusion 
+T11	NELL_disease 174 183	confusion 

@@ -1,0 +1,24 @@
+T1	Person 195 216	Chris Stokley/HOU/ECT
+T2	Location 273 292	the Horse Brass Pub
+T3	Date 296 315	Thursday, April 5th
+T4	Time 389 395	6:00pm
+T6	Location 523 545	4534 SE Belmont Street
+T5	Topic 232 252	Hunsucker's Farewell
+T7	Topic 325 333;334 342	Brett's  Farewell
+T8	Person 431 436	Holly
+T9	Person 441 446	Brett
+T10	Person 325 330	Brett
+T11	NELL_humanagent 393 395	pm 
+T12	NELL_plant 431 436	Holly 
+T13	NELL_athlete 441 446	Brett 
+T14	NELL_location 496 506	directions 
+T15	NELL_abstractthing 512 519	address 
+T16	NELL_street 531 545	Belmont Street 
+T17	NELL_street 539 545	Street 
+T18	NELL_humanagent 393 395	pm 
+T19	NELL_plant 431 436	Holly 
+T20	NELL_athlete 441 446	Brett 
+T21	NELL_location 496 506	directions 
+T22	NELL_abstractthing 512 519	address 
+T23	NELL_street 531 545	Belmont Street 
+T24	NELL_street 539 545	Street 

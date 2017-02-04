@@ -1,0 +1,19 @@
+T1	Date 6 28	Tuesday, July 24, 2001
+T2	TimeSpan 29 83	1:00 PM-1:30 PM (GMT-06:00) Central Time (US & Canada)
+T3	Location 92 119	EB2378 (Georgeann's office)
+T4	NELL_dayofweek 6 13	Tuesday 
+T5	NELL_month 15 19	July 
+T6	NELL_humanagent 42 44	PM 
+T7	NELL_location 57 64	Central 
+T8	NELL_magazine 65 69	Time 
+T9	NELL_country 76 82	Canada 
+T10	NELL_agent 100 109	Georgeann
+T11	NELL_room 112 118	office 
+T12	NELL_dayofweek 6 13	Tuesday 
+T13	NELL_month 15 19	July 
+T14	NELL_humanagent 42 44	PM 
+T15	NELL_location 57 64	Central 
+T16	NELL_magazine 65 69	Time 
+T17	NELL_country 76 82	Canada 
+T18	NELL_agent 100 109	Georgeann
+T19	NELL_room 112 118	office 

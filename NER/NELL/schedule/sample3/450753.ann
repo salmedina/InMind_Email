@@ -1,0 +1,40 @@
+T1	Person 0 2	Ed
+T2	Person 7 8	I
+T3	EventName 32 46	Tuna Christmas
+T4	Time 160 163	8pm
+T5	Location 173 199	Galveston, The Opera House
+T6	Person 203 204	I
+T7	Person 682 690	Jennifer
+T8	EventName 468 481	leave Houston
+T9	Date 500 508	Thursday
+T10	EventName 528 557	drive to Galveston for dinner
+T11	NELL_person 0 2	Ed 
+T12	NELL_nongovorganization 21 28	tickets 
+T13	NELL_fish 32 36	Tuna 
+T14	NELL_person 37 46	Christmas 
+T15	NELL_book 127 132	scoop 
+T16	NELL_dayofweek 141 149	Thursday 
+T17	NELL_date 150 154	Dec. 
+T18	NELL_city 173 182	Galveston 
+T19	NELL_stadiumoreventvenue 188 199	Opera House 
+T20	NELL_organization 194 199	House 
+T21	NELL_televisionshow 247 251	show 
+T22	NELL_city 269 276	Houston 
+T23	NELL_nongovorganization 339 346	tickets 
+T24	NELL_nongovorganization 660 667	tickets 
+T25	NELL_person 682 690	Jennifer 
+T26	NELL_person 0 2	Ed 
+T27	NELL_nongovorganization 21 28	tickets 
+T28	NELL_fish 32 36	Tuna 
+T29	NELL_person 37 46	Christmas 
+T30	NELL_book 127 132	scoop 
+T31	NELL_dayofweek 141 149	Thursday 
+T32	NELL_date 150 154	Dec. 
+T33	NELL_city 173 182	Galveston 
+T34	NELL_stadiumoreventvenue 188 199	Opera House 
+T35	NELL_organization 194 199	House 
+T36	NELL_televisionshow 247 251	show 
+T37	NELL_city 269 276	Houston 
+T38	NELL_nongovorganization 339 346	tickets 
+T39	NELL_nongovorganization 660 667	tickets 
+T40	NELL_person 682 690	Jennifer 

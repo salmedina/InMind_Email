@@ -1,0 +1,27 @@
+T1	Date 92 104	December 9th
+T2	EventName 105 116	PRC meeting
+T3	Person 190 201	Jeff Keeler
+T4	Person 206 215	Henry Van
+T5	Person 226 230	Mike
+T6	Person 0 7	Maureen
+T7	Person 30 35	Steve
+T8	NELL_abstractthing 0 7	Maureen 
+T9	NELL_ceo 30 35	Steve 
+T10	NELL_month 92 100	December 
+T11	NELL_abstractthing 109 116	meeting 
+T12	NELL_humanagent 190 194	Jeff 
+T13	NELL_person 206 211	Henry 
+T14	NELL_person 206 215	Henry Van 
+T15	NELL_vehicle 212 215	Van 
+T16	NELL_person 218 230	Thanks Mike 
+T17	NELL_person 226 230	Mike 
+T18	NELL_abstractthing 0 7	Maureen 
+T19	NELL_ceo 30 35	Steve 
+T20	NELL_month 92 100	December 
+T21	NELL_abstractthing 109 116	meeting 
+T22	NELL_humanagent 190 194	Jeff 
+T23	NELL_person 206 211	Henry 
+T24	NELL_person 206 215	Henry Van 
+T25	NELL_vehicle 212 215	Van 
+T26	NELL_person 218 230	Thanks Mike 
+T27	NELL_person 226 230	Mike 

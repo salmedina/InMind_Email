@@ -1,0 +1,32 @@
+T1	Person 6 14	everyone
+T2	Date 47 68	Thursday's (05/04/00)
+T3	Topic 100 119	weekly Japan update
+T4	Time 123 132	6:00 p.m.
+T5	Person 179 187	Joe Hirl
+T6	Location 233 244;245 254	Conference  room 21C2
+T7	NELL_dayofweek 47 55	Thursday 
+T8	NELL_country 107 112	Japan 
+T9	NELL_city 133 140	Houston 
+T10	NELL_magazine 141 145	time 
+T11	NELL_person 179 182	Joe 
+T12	NELL_organization 199 203	copy 
+T13	NELL_city 259 266	Houston 
+T14	NELL_profession 267 279	participants 
+T15	NELL_jobposition 588 597	Assistant 
+T16	NELL_drug 601 605	name 
+T17	NELL_abstractthing 610 616	number 
+T18	NELL_abstractthing 645 652	contact 
+T19	NELL_person 672 677	Eddie 
+T20	NELL_dayofweek 47 55	Thursday 
+T21	NELL_country 107 112	Japan 
+T22	NELL_city 133 140	Houston 
+T23	NELL_magazine 141 145	time 
+T24	NELL_person 179 182	Joe 
+T25	NELL_organization 199 203	copy 
+T26	NELL_city 259 266	Houston 
+T27	NELL_profession 267 279	participants 
+T28	NELL_jobposition 588 597	Assistant 
+T29	NELL_drug 601 605	name 
+T30	NELL_abstractthing 610 616	number 
+T31	NELL_abstractthing 645 652	contact 
+T32	NELL_person 672 677	Eddie 

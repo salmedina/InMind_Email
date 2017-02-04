@@ -1,0 +1,16 @@
+T1	Date 6 33	Thursday, November 29, 2001
+T2	TimeSpan 34 88	3:00 PM-4:00 PM (GMT-06:00) Central Time (US & Canada)
+T3	Location 97 104	ECN1841
+T4	Topic 142 163;164 174;175 184;185 196;197 212;213 242;243 253	Project status/update Home page  	a.  Logo 	b.  Colors 	c.  Background Security - Roles & Privileges Data Model
+T5	NELL_dayofweek 6 14	Thursday 
+T6	NELL_month 16 24	November 
+T7	NELL_humanagent 47 49	PM 
+T8	NELL_location 62 69	Central 
+T9	NELL_magazine 70 74	Time 
+T10	NELL_country 81 87	Canada 
+T11	NELL_dayofweek 6 14	Thursday 
+T12	NELL_month 16 24	November 
+T13	NELL_humanagent 47 49	PM 
+T14	NELL_location 62 69	Central 
+T15	NELL_magazine 70 74	Time 
+T16	NELL_country 81 87	Canada 

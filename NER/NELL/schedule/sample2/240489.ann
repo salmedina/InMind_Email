@@ -1,0 +1,18 @@
+T1	Date 6 32	Tuesday, November 27, 2001
+T2	TimeSpan 33 87	2:00 PM-3:00 PM (GMT-06:00) Central Time (US & Canada)
+T3	Location 96 110	Team Room 6112
+T4	Person 133 147	Per Laura Luce
+T5	Date 194 199	today
+T6	Time 202 206	2 PM
+T7	NELL_dayofweek 6 13	Tuesday 
+T8	NELL_month 15 23	November 
+T9	NELL_humanagent 46 48	PM 
+T10	NELL_location 61 68	Central 
+T11	NELL_magazine 69 73	Time 
+T12	NELL_country 80 86	Canada 
+T13	NELL_dayofweek 6 13	Tuesday 
+T14	NELL_month 15 23	November 
+T15	NELL_humanagent 46 48	PM 
+T16	NELL_location 61 68	Central 
+T17	NELL_magazine 69 73	Time 
+T18	NELL_country 80 86	Canada 

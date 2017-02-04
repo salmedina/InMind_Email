@@ -1,0 +1,17 @@
+T1	DateSpan 769 778	next week
+T2	EventName 901 914	Board Meeting
+T3	EventName 738 743;744 751	Board Meeting
+T4	NELL_geolocatablething 0 2	Hi 
+T5	NELL_person 3 6	Tom 
+T6	NELL_humanagent 31 34	Ken 
+T7	NELL_geopoliticallocation 101 108	country 
+T8	NELL_abstractthing 738 743	Board 
+T9	NELL_hallwayitem 808 812	view 
+T10	NELL_abstractthing 901 906	Board 
+T11	NELL_geolocatablething 0 2	Hi 
+T12	NELL_person 3 6	Tom 
+T13	NELL_humanagent 31 34	Ken 
+T14	NELL_geopoliticallocation 101 108	country 
+T15	NELL_abstractthing 738 743	Board 
+T16	NELL_hallwayitem 808 812	view 
+T17	NELL_abstractthing 901 906	Board 

@@ -1,0 +1,28 @@
+T1	Person 0 1	I
+T2	Person 123 127	Jeff
+T3	EventName 412 429	Tentative meeting
+T4	Date 430 441	Monday 8/28
+T5	Time 445 454	5 pm/2 pm
+T6	Person 547 560	Jeff Dasovich
+T7	Topic 766 782	Topics of panels
+T8	Topic 791 804	Speaker list.
+T9	NELL_humanagent 547 551	Jeff 
+T10	NELL_mountainrange 577 584	Sierras 
+T11	NELL_dayofweek 613 619	Monday 
+T12	NELL_humanagent 628 634	agenda 
+T13	NELL_geopoliticallocation 728 732	list 
+T14	NELL_city 750 757	choices 
+T15	NELL_jobposition 791 798	Speaker 
+T16	NELL_geopoliticallocation 799 803	list 
+T17	NELL_geopoliticallocation 829 833	list 
+T18	NELL_geopoliticallocation 869 873	list 
+T19	NELL_humanagent 547 551	Jeff 
+T20	NELL_mountainrange 577 584	Sierras 
+T21	NELL_dayofweek 613 619	Monday 
+T22	NELL_humanagent 628 634	agenda 
+T23	NELL_geopoliticallocation 728 732	list 
+T24	NELL_city 750 757	choices 
+T25	NELL_jobposition 791 798	Speaker 
+T26	NELL_geopoliticallocation 799 803	list 
+T27	NELL_geopoliticallocation 829 833	list 
+T28	NELL_geopoliticallocation 869 873	list 

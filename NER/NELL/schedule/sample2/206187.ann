@@ -1,0 +1,12 @@
+T1	EventName 4 26	weekly conference call
+T2	Time 46 54	1:30 p.m
+T3	Location 90 96	EB38C1
+T4	Date 63 78;79 87	Wednesday, May  30, 2001
+T5	NELL_street 37 42	place 
+T6	NELL_dayofweek 63 72	Wednesday 
+T7	NELL_city 135 142	Houston 
+T8	NELL_jobposition 192 196	Host 
+T9	NELL_street 37 42	place 
+T10	NELL_dayofweek 63 72	Wednesday 
+T11	NELL_city 135 142	Houston 
+T12	NELL_jobposition 192 196	Host 

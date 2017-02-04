@@ -1,0 +1,19 @@
+T1	Date 6 29	Thursday, July 26, 2001
+T2	TimeSpan 30 85	9:30 AM-10:00 AM (GMT-06:00) Central Time (US & Canada)
+T3	Time 144 163	Thursday mg at 9:30
+T4	Person 109 113	Brad
+T5	Person 133 137	Mike
+T6	Person 141 143	Ed
+T7	Person 185 188	you
+T8	NELL_dayofweek 6 14	Thursday 
+T9	NELL_month 16 20	July 
+T10	NELL_location 59 66	Central 
+T11	NELL_magazine 67 71	Time 
+T12	NELL_country 78 84	Canada 
+T13	NELL_radiostation 176 180	work 
+T14	NELL_dayofweek 6 14	Thursday 
+T15	NELL_month 16 20	July 
+T16	NELL_location 59 66	Central 
+T17	NELL_magazine 67 71	Time 
+T18	NELL_country 78 84	Canada 
+T19	NELL_radiostation 176 180	work 

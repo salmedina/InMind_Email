@@ -1,0 +1,97 @@
+T1	Person 322 334	Mr. Kaminski
+T2	Person 348 358	Bob Thomas
+T3	Person 360 371	Shmuel Oren
+T4	Person 376 377	I
+T5	Organization 403 408;409 444	Power Systems Engineering Research Center
+T6	EventName 456 481;482 489	Industrial Advisory Board meeting
+T7	Location 493 506	Oak Brook, IL
+T8	DateSpan 527 542	May 31 - June 1
+T9	Person 562 567	Lance
+T10	Person 572 576	Alex
+T11	Person 1098 1108	Dennis Ray
+T12	NELL_person 348 358	Bob Thomas 
+T13	NELL_person 348 351	Bob 
+T14	NELL_person 352 358	Thomas 
+T15	NELL_agent 367 371	Oren 
+T16	NELL_abstractthing 403 408	Power 
+T17	NELL_academicfield 409 416	Systems 
+T18	NELL_academicfield 417 428	Engineering 
+T19	NELL_abstractthing 429 437	Research 
+T20	NELL_athlete 438 444	Center 
+T21	NELL_event 467 475	Advisory 
+T22	NELL_abstractthing 476 481	Board 
+T23	NELL_abstractthing 482 489	meeting 
+T24	NELL_location 493 502	Oak Brook 
+T25	NELL_plant 493 496	Oak 
+T26	NELL_location 497 502	Brook 
+T27	NELL_stateorprovince 504 506	IL 
+T28	NELL_abstractthing 527 533	May 31
+T29	NELL_month 536 540	June 
+T30	NELL_abstractthing 536 542	June 1
+T31	NELL_humanagent 562 567	Lance 
+T32	NELL_male 572 576	Alex 
+T33	NELL_sportsteam 609 631	university researchers 
+T34	NELL_abstractthing 620 631	researchers 
+T35	NELL_abstractthing 669 676	meeting 
+T36	NELL_abstractthing 733 741	projects 
+T37	NELL_abstractthing 833 843	discussion 
+T38	NELL_abstractthing 863 869	issues 
+T39	NELL_profession 888 898	executives 
+T40	NELL_company 920 926	dialog 
+T41	NELL_sportsteam 932 954	university researchers 
+T42	NELL_abstractthing 943 954	researchers 
+T43	NELL_musicsong 992 1001	questions 
+T44	NELL_musicsong 1058 1067	questions 
+T45	NELL_person 1098 1104	Dennis 
+T46	NELL_person 1098 1108	Dennis Ray 
+T47	NELL_humanagent 1105 1108	Ray 
+T48	NELL_jobposition 1116 1125	Executive 
+T49	NELL_jobposition 1126 1134	Director 
+T50	NELL_abstractthing 1135 1140	Power 
+T51	NELL_academicfield 1141 1148	Systems 
+T52	NELL_academicfield 1149 1160	Engineering 
+T53	NELL_abstractthing 1161 1169	Research 
+T54	NELL_athlete 1170 1176	Center 
+T55	NELL_person 348 358	Bob Thomas 
+T56	NELL_person 348 351	Bob 
+T57	NELL_person 352 358	Thomas 
+T58	NELL_agent 367 371	Oren 
+T59	NELL_abstractthing 403 408	Power 
+T60	NELL_academicfield 409 416	Systems 
+T61	NELL_academicfield 417 428	Engineering 
+T62	NELL_abstractthing 429 437	Research 
+T63	NELL_athlete 438 444	Center 
+T64	NELL_event 467 475	Advisory 
+T65	NELL_abstractthing 476 481	Board 
+T66	NELL_abstractthing 482 489	meeting 
+T67	NELL_location 493 502	Oak Brook 
+T68	NELL_plant 493 496	Oak 
+T69	NELL_location 497 502	Brook 
+T70	NELL_stateorprovince 504 506	IL 
+T71	NELL_abstractthing 527 533	May 31
+T72	NELL_month 536 540	June 
+T73	NELL_abstractthing 536 542	June 1
+T74	NELL_humanagent 562 567	Lance 
+T75	NELL_male 572 576	Alex 
+T76	NELL_sportsteam 609 631	university researchers 
+T77	NELL_abstractthing 620 631	researchers 
+T78	NELL_abstractthing 669 676	meeting 
+T79	NELL_abstractthing 733 741	projects 
+T80	NELL_abstractthing 833 843	discussion 
+T81	NELL_abstractthing 863 869	issues 
+T82	NELL_profession 888 898	executives 
+T83	NELL_company 920 926	dialog 
+T84	NELL_sportsteam 932 954	university researchers 
+T85	NELL_abstractthing 943 954	researchers 
+T86	NELL_musicsong 992 1001	questions 
+T87	NELL_musicsong 1058 1067	questions 
+T88	NELL_person 1098 1104	Dennis 
+T89	NELL_person 1098 1108	Dennis Ray 
+T90	NELL_humanagent 1105 1108	Ray 
+T91	NELL_jobposition 1116 1125	Executive 
+T92	NELL_jobposition 1126 1134	Director 
+T93	NELL_abstractthing 1135 1140	Power 
+T94	NELL_academicfield 1141 1148	Systems 
+T95	NELL_academicfield 1149 1160	Engineering 
+T96	NELL_abstractthing 1161 1169	Research 
+T97	NELL_athlete 1170 1176	Center 

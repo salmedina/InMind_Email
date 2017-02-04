@@ -1,0 +1,13 @@
+T1	EventName 17 28	OGC meeting
+T2	Time 29 43	this afternoon
+T3	TimeSpan 49 61	5:00-5:30 PM
+T4	Location 65 71	EB38C2
+T5	Topic 83 94	PRC matters
+T6	NELL_humanagent 59 61	PM 
+T7	NELL_geopoliticalorganization 83 86	PRC 
+T8	NELL_profession 87 94	matters 
+T9	NELL_academicfield 104 108	plan 
+T10	NELL_humanagent 59 61	PM 
+T11	NELL_geopoliticalorganization 83 86	PRC 
+T12	NELL_profession 87 94	matters 
+T13	NELL_academicfield 104 108	plan 

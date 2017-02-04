@@ -1,0 +1,24 @@
+T1	Date 33 52	Monday, February 28
+T2	Time 57 66	3:00 p.m.
+T3	Topic 70 78;79 95	discuss  reports from SAP
+T4	Location 127 136	EB 19 C-1
+T5	Telephone 207 219	877-475-9234
+T6	Telephone 247 259	954-797-5363
+T7	NELL_abstractthing 2 9	meeting 
+T8	NELL_dayofweek 33 39	Monday 
+T9	NELL_month 41 49	February 
+T10	NELL_company 92 95	SAP 
+T11	NELL_abstractthing 103 110	meeting 
+T12	NELL_abstractthing 127 129	EB 
+T13	NELL_abstractthing 152 159	numbers 
+T14	NELL_programminglanguage 261 277	Participant Code 
+T15	NELL_programminglanguage 273 277	Code 
+T16	NELL_abstractthing 2 9	meeting 
+T17	NELL_dayofweek 33 39	Monday 
+T18	NELL_month 41 49	February 
+T19	NELL_company 92 95	SAP 
+T20	NELL_abstractthing 103 110	meeting 
+T21	NELL_abstractthing 127 129	EB 
+T22	NELL_abstractthing 152 159	numbers 
+T23	NELL_programminglanguage 261 277	Participant Code 
+T24	NELL_programminglanguage 273 277	Code 

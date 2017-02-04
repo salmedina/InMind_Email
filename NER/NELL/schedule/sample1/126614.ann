@@ -1,0 +1,25 @@
+T1	EventName 22 44	VP and MD PRC meetings
+T2	DateSpan 63 76	Jan 7 and 8th
+T3	DateSpan 241 258	December 15 or 16
+T4	Person 335 340	David
+T5	Person 628 633	David
+T6	Person 665 671	Stan H
+T7	DateSpan 690 711	December 19-January 4
+T8	EventName 720 732	EGS meetings
+T9	EventName 748 765	ENE VP/MD meeting
+T10	Date 868 876	February
+T11	Topic 976 995	PRC-type discussion
+T12	DateSpan 1550 1562	Jan 1 thru 8
+T13	Person 1740 1745	David
+T14	NELL_jobposition 22 24	VP 
+T15	NELL_date 63 66	Jan 
+T16	NELL_drug 293 301	comments 
+T17	NELL_abstractthing 1052 1059	meeting 
+T18	NELL_abstractthing 1106 1113	meeting 
+T19	NELL_person 1740 1745	David 
+T20	NELL_jobposition 22 24	VP 
+T21	NELL_date 63 66	Jan 
+T22	NELL_drug 293 301	comments 
+T23	NELL_abstractthing 1052 1059	meeting 
+T24	NELL_abstractthing 1106 1113	meeting 
+T25	NELL_person 1740 1745	David 

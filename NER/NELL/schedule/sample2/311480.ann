@@ -1,0 +1,17 @@
+T1	Date 6 35	Thursday, February 7th , 2002
+T2	Location 47 56	ECS 06980
+T3	EventName 58 69	Orientation
+T4	TimeSpan 148 158	10am-12 pm
+T5	TimeSpan 163 172	2pm- 4 pm
+T6	NELL_dayofweek 6 14	Thursday 
+T7	NELL_month 16 24	February 
+T8	NELL_humanagent 170 172	pm 
+T9	NELL_organization 225 232	session 
+T10	NELL_abstractthing 317 324	answers 
+T11	NELL_musicsong 333 342	questions 
+T12	NELL_dayofweek 6 14	Thursday 
+T13	NELL_month 16 24	February 
+T14	NELL_humanagent 170 172	pm 
+T15	NELL_organization 225 232	session 
+T16	NELL_abstractthing 317 324	answers 
+T17	NELL_musicsong 333 342	questions 

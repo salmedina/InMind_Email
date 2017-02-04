@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		mark {
+			background-color: orange;
+			color: black;
+		}
+	</style>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+</head>
+<body>
+
+<div ng-app="">
+	<h1>NELL Test App</h1>
+ 	<form role="form" method="POST" action="/">
+		<div class="form-group">
+			<input type="text" name="queryText" class="form-control" id="text-box" placeholder="Enter text" style="max-width:300px">
+		</div>
+		<button type="submit" class="btn btn-default">Annotate</button>
+	</form>
+	<h3><span class="yellow">{{ displayText }}</span></h3>
+	<table class="container" style="max-width: 700px;">
+		<thead>
+			<tr>
+				<th>Word</th>
+				<th>Class</th>
+				<th>Score</th>
+				<th>Start</th>
+				<th>End</th>
+			</tr>
+		</thead>
+		{% for annotation in annotations%}
+			<tr>
+				<td>{{ annotation[0] }}</td>
+				<td>{{ annotation[1] }}</td>
+				<td>{{ annotation[2] }}</td>
+				<td>{{ annotation[3] }}</td>
+				<td>{{ annotation[4] }}</td>
+			</tr>
+		{% endfor %}
+	</table>
+</div>
+</body>
+</html>

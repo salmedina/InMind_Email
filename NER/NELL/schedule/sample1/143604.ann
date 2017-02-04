@@ -1,0 +1,35 @@
+T1	EventName 831 846	mid-year MD PRC
+T2	Date 864 880	Tuesday, July 24
+T3	Person 883 889;890 895	David  Oxley
+T4	NELL_ceo 22 27	Steve 
+T5	NELL_humanagent 32 36	Jeff 
+T6	NELL_person 54 58	Greg 
+T7	NELL_director 95 102	nothing 
+T8	NELL_street 855 860	place 
+T9	NELL_dayofweek 864 871	Tuesday 
+T10	NELL_month 873 877	July 
+T11	NELL_person 883 888	David 
+T12	NELL_geolocatablething 890 895	Oxley 
+T13	NELL_organization 904 908	team 
+T14	NELL_landscapefeatures 931 948	pertinent details 
+T15	NELL_abstractthing 956 963	meeting 
+T16	NELL_humanagent 978 982	Jeff 
+T17	NELL_hobby 983 991	Skilling 
+T18	NELL_profession 1027 1035	concerns 
+T19	NELL_sociopolitical 1074 1081	process 
+T20	NELL_ceo 22 27	Steve 
+T21	NELL_humanagent 32 36	Jeff 
+T22	NELL_person 54 58	Greg 
+T23	NELL_director 95 102	nothing 
+T24	NELL_street 855 860	place 
+T25	NELL_dayofweek 864 871	Tuesday 
+T26	NELL_month 873 877	July 
+T27	NELL_person 883 888	David 
+T28	NELL_geolocatablething 890 895	Oxley 
+T29	NELL_organization 904 908	team 
+T30	NELL_landscapefeatures 931 948	pertinent details 
+T31	NELL_abstractthing 956 963	meeting 
+T32	NELL_humanagent 978 982	Jeff 
+T33	NELL_hobby 983 991	Skilling 
+T34	NELL_profession 1027 1035	concerns 
+T35	NELL_sociopolitical 1074 1081	process 

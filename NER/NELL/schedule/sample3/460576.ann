@@ -1,0 +1,30 @@
+T1	EventName 27 40	floor meeting
+T2	Person 1 14	Mark Haedicke
+T3	Topic 45 54	EWS Legal
+T4	Location 58 65	Houston
+T5	Date 82 101	Monday, November 12
+T6	Time 106 114	2:00 p.m
+T7	Time 66 80	this afternoon
+T8	Location 138 171	outside of conference room EB3824
+T9	NELL_humanagent 1 5	Mark 
+T10	NELL_city 58 65	Houston 
+T11	NELL_dayofweek 82 88	Monday 
+T12	NELL_month 90 98	November 
+T13	NELL_academicfield 181 185	plan 
+T14	NELL_humanagent 244 248	Mark 
+T15	NELL_company 261 266	Enron 
+T16	NELL_abstractthing 277 285	Services 
+T17	NELL_geopoliticalorganization 292 302	Department 
+T18	NELL_item 303 312	Telephone 
+T19	NELL_person 351 357	e-mail 
+T20	NELL_humanagent 1 5	Mark 
+T21	NELL_city 58 65	Houston 
+T22	NELL_dayofweek 82 88	Monday 
+T23	NELL_month 90 98	November 
+T24	NELL_academicfield 181 185	plan 
+T25	NELL_humanagent 244 248	Mark 
+T26	NELL_company 261 266	Enron 
+T27	NELL_abstractthing 277 285	Services 
+T28	NELL_geopoliticalorganization 292 302	Department 
+T29	NELL_item 303 312	Telephone 
+T30	NELL_person 351 357	e-mail 

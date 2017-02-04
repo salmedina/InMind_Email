@@ -1,0 +1,26 @@
+T1	EventName 0 12	PRC Meetings
+T2	Date 22 43	Monday, November 20th
+T3	Person 49 52	you
+T4	Person 403 417	SCOTT, SUSAN M
+T5	Person 422 434	TANG, SHOUAN
+T6	Person 439 452	VARGAS, LAURA
+T7	NELL_geopoliticalorganization 0 3	PRC 
+T8	NELL_dayofweek 22 28	Monday 
+T9	NELL_month 30 38	November 
+T10	NELL_food 96 99	PEP 
+T11	NELL_profession 176 185	employees 
+T12	NELL_person 403 408	SCOTT 
+T13	NELL_person 410 415	SUSAN 
+T14	NELL_cardgame 416 417	M 
+T15	NELL_abstractthing 422 426	TANG 
+T16	NELL_abstractthing 447 452	LAURA 
+T17	NELL_geopoliticalorganization 0 3	PRC 
+T18	NELL_dayofweek 22 28	Monday 
+T19	NELL_month 30 38	November 
+T20	NELL_food 96 99	PEP 
+T21	NELL_profession 176 185	employees 
+T22	NELL_person 403 408	SCOTT 
+T23	NELL_person 410 415	SUSAN 
+T24	NELL_cardgame 416 417	M 
+T25	NELL_abstractthing 422 426	TANG 
+T26	NELL_abstractthing 447 452	LAURA 

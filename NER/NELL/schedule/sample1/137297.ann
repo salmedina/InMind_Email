@@ -1,0 +1,19 @@
+T1	Person 25 35	Greg Piper
+T2	Location 39 49	his office
+T3	Date 50 66	tomorrow, June 5
+T4	TimeSpan 72 84	2:30 to 3:00
+T5	Topic 88 113	discuss the Calpine visit
+T6	NELL_academicfield 7 11	plan 
+T7	NELL_person 25 29	Greg 
+T8	NELL_agent 30 35	Piper 
+T9	NELL_room 43 58	office tomorrow 
+T10	NELL_month 60 64	June 
+T11	NELL_company 100 107	Calpine 
+T12	NELL_dayofweek 134 142	Thursday 
+T13	NELL_academicfield 7 11	plan 
+T14	NELL_person 25 29	Greg 
+T15	NELL_agent 30 35	Piper 
+T16	NELL_room 43 58	office tomorrow 
+T17	NELL_month 60 64	June 
+T18	NELL_company 100 107	Calpine 
+T19	NELL_dayofweek 134 142	Thursday 

@@ -1,0 +1,16 @@
+T1	Date 13 39	every Tuesday and Thursday
+T2	DateSpan 50 77	12/13/2001 until 12/27/2001
+T3	TimeSpan 83 141	9:00 AM to 10:00 AM (GMT-06:00) Central Time (US & Canada)
+T4	Location 150 154	49c1
+T5	Telephone 211 223	800-745-1000
+T6	Telephone 239 251	801-977-0648
+T7	NELL_dayofweek 19 26	Tuesday 
+T8	NELL_dayofweek 31 39	Thursday 
+T9	NELL_location 115 122	Central 
+T10	NELL_magazine 123 127	Time 
+T11	NELL_country 134 140	Canada 
+T12	NELL_dayofweek 19 26	Tuesday 
+T13	NELL_dayofweek 31 39	Thursday 
+T14	NELL_location 115 122	Central 
+T15	NELL_magazine 123 127	Time 
+T16	NELL_country 134 140	Canada 

@@ -1,0 +1,53 @@
+T1	EventName 683 711	meeting of the PRC Committee
+T2	Date 730 743	April 3, 2001
+T3	Location 752 758;759 788	Enron  Building 50th Floor Boardroom
+T4	NELL_jobposition 44 46	VP 
+T5	NELL_website 59 65	Review 
+T6	NELL_organization 66 75	committee 
+T7	NELL_geopoliticalorganization 233 236	PRC 
+T8	NELL_sociopolitical 237 244	process 
+T9	NELL_geopoliticalorganization 448 451	PRC 
+T10	NELL_book 459 469	foundation 
+T11	NELL_humanagent 483 489	talent 
+T12	NELL_sportsgame 618 627	champions 
+T13	NELL_sociopolitical 636 643	process 
+T14	NELL_abstractthing 683 690	meeting 
+T15	NELL_geopoliticalorganization 698 701	PRC 
+T16	NELL_organization 702 711	Committee 
+T17	NELL_month 730 735	April 
+T18	NELL_company 752 757	Enron 
+T19	NELL_room 773 788	Floor Boardroom 
+T20	NELL_room 779 788	Boardroom 
+T21	NELL_geopoliticalorganization 814 817	PRC 
+T22	NELL_humanagent 894 900	agenda 
+T23	NELL_abstractthing 909 916	meeting 
+T24	NELL_website 938 944	review 
+T25	NELL_academicfield 949 960	information 
+T26	NELL_person 1014 1020	Jackie 
+T27	NELL_athlete 1021 1027	Martin 
+T28	NELL_humanagent 1088 1092	Dave 
+T29	NELL_jobposition 44 46	VP 
+T30	NELL_website 59 65	Review 
+T31	NELL_organization 66 75	committee 
+T32	NELL_geopoliticalorganization 233 236	PRC 
+T33	NELL_sociopolitical 237 244	process 
+T34	NELL_geopoliticalorganization 448 451	PRC 
+T35	NELL_book 459 469	foundation 
+T36	NELL_humanagent 483 489	talent 
+T37	NELL_sportsgame 618 627	champions 
+T38	NELL_sociopolitical 636 643	process 
+T39	NELL_abstractthing 683 690	meeting 
+T40	NELL_geopoliticalorganization 698 701	PRC 
+T41	NELL_organization 702 711	Committee 
+T42	NELL_month 730 735	April 
+T43	NELL_company 752 757	Enron 
+T44	NELL_room 773 788	Floor Boardroom 
+T45	NELL_room 779 788	Boardroom 
+T46	NELL_geopoliticalorganization 814 817	PRC 
+T47	NELL_humanagent 894 900	agenda 
+T48	NELL_abstractthing 909 916	meeting 
+T49	NELL_website 938 944	review 
+T50	NELL_academicfield 949 960	information 
+T51	NELL_person 1014 1020	Jackie 
+T52	NELL_athlete 1021 1027	Martin 
+T53	NELL_humanagent 1088 1092	Dave 
