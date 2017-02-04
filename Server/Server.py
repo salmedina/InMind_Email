@@ -12,6 +12,7 @@ import pprint
 import json
 import jsonrpc
 import jsonrpclib
+import argparse
 from TextSummarizer import TextSummarizer
 from simplejson import loads
 from dateutil.parser import parse as dt_parse
@@ -97,9 +98,7 @@ def distract():
     
     print 'Processing request'
     print 'Loading request'
-    
-    #TODO: Add logger
-    #TODO: VAlidate request type
+
     print request.data
     print len(request.data)
     print request.form['data']
@@ -197,5 +196,12 @@ def distract():
     return json.dumps(output)
 
 if __name__ == '__main__':
+    # Load the arguments of the program
+    # Host and port where the service will be running
+    parser = argparse.ArgumentParser(description='Text summarizer server')
+    parser.add_argument('-ip', '--ip', help='Host where the service will be running', required=False, default='0.0.0.0')
+    parser.add_argument('-p', '--port', help='Port where the service will be running', required=False, default=5000)
+    args = vars(parser.parse_args())
+
     app.debug = True
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host=args['ip'], port=int(args['port']))
