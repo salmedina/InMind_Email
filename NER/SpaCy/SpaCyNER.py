@@ -11,13 +11,7 @@ from spacy.gold import GoldParse
 from spacy.tagger import Tagger
 
 '''
-This is a bad script where we first train out of main scope the NER
-Then we call it from the function spacy_annotate
-The correct way of doing it is:
-
-1. Train the NER
-2. Annotate the text
-3. Make the overlap analysis
+This is an example on how to train a Spacy NER model and how to load it
 '''
 
 # GLOBALS (bad practice, I know)
@@ -65,6 +59,13 @@ def build_training_list(data_dir):
 
 
 def train_spacy_ner(nlp, train_data, entity_types):
+    '''
+    Trains a NER
+    :param nlp: Spacy NLP pipeline to be used with the NER
+    :param train_data: list of tuples (text, annotation_list) where the annotation_list is a list of tuples (start, end, tag) tag is a string
+    :param entity_types: the possible tags for our NER
+    :return: trained Spacy NER model
+    '''
     # Add new words to vocab.
     for raw_text, _ in train_data:
         doc = nlp.make_doc(raw_text)
@@ -82,6 +83,12 @@ def train_spacy_ner(nlp, train_data, entity_types):
     return ner
 
 def save_model(ner, model_dir):
+    '''
+    Saves a model into local disk
+    :param ner: Spacy ner model to be saved
+    :param model_dir: directory path where the model will be saved
+    :return: None
+    '''
     # Make sure the saving path exists
     model_dir = pathlib.Path(model_dir)
     if not model_dir.exists():
@@ -103,7 +110,13 @@ def save_model(ner, model_dir):
     with (model_dir / 'vocab' / 'strings.json').open('w', encoding='utf8') as file_:
         ner.vocab.strings.dump(file_)
 
-def load_model(nlp, model_dir):
+def load_ner(nlp, model_dir):
+    '''
+    Loads the NER model located in model_dir
+    :param nlp: Spacy NLP pipeline to be used with the NER
+    :param model_dir: path of the directory where the NER model was saved
+    :return: NER model
+    '''
     #nlp = spacy.load('en', parser=False, entity=False, add_vectors=False)
     vocab_dir = pathlib.Path(os.path.join(model_dir, 'vocab'))
     with (vocab_dir / 'strings.json').open('r', encoding='utf8') as file_:
@@ -137,66 +150,8 @@ def spacy_annotate(nlp, text):
 
     return annotations
 
-
-def annotation_overlap(a, b):
-    '''Calculates the total overlap of terms'''
-    if a['end'] < b['start'] or b['end'] < a['start']:
-        return 0
-    values = [a['end']-a['start'], a['end']-b['start'], b['end']- a['start'], b['end']-b['start']]
-    return min(values)
-
-def annotate_text(text_filename, ann_filename, append):
-    '''
-    This function annotates the text and adds the annotations made by SpaCy to the corresponding ann file
-    @text_filename : the text file path
-    @ann_filename : the annotation file path
-    @append : if the annotations should be appended to the annotation file or overwritten
-    '''
-
-    # Open TEXT file
-    text = open(text_filename).read()
-    # Get the annotations from SpaCy
-    annotations = spacy_annotate(text)
-
-    # If the annotations need to be appended then get the next annotation tag id
-    tag_id = 1
-    write_mode = 'w'
-    if append:
-        write_mode = 'a'
-        with open(ann_filename, 'r') as ann_file:
-            ann_text = ann_file.read()
-            lines = ann_text.splitlines()
-            tag_id = len(lines) + 1
-
-    # for each annotation, get the formatted line and add it to file according to the append option
-    with open(ann_filename, write_mode) as ann_file:
-        for ann in annotations:
-            '''
-            ANN fileds format
-            0:text, 1:category, 2:score, 3:start, 4:end
-            '''
-            formatted_entry = '''T%d\t%s %d %d\t%s\n'''%(tag_id, 'SPACY_'+ann['category'], ann['start'], ann['end'], ann['text'].replace('\n',''))
-            ann_file.write(formatted_entry)
-            tag_id += 1
-
-def run_experiment():
-    # Go through all the files in the given dir
-    dir_list = ['schedule/sample1', 'schedule/sample2', 'schedule/sample3']
-    for data_dir in dir_list:
-        # For each of the items in the directories
-        for item in os.listdir(data_dir):
-            if os.path.isdir(item):  # Ignore if it is a directory
-                continue
-            # Go through the txt files and get the ann filepath
-            item_path = os.path.join(data_dir, item)
-            item_filename, item_ext = os.path.splitext(item_path)
-            if item_ext == '.txt':
-                print 'Annotating %s' % (item)
-                item_ann_path = item_path.replace('.txt', '.ann')
-                annotate_text(item_path, item_ann_path, True)
-
-def run_training():
-    print ""
+def run_training(save_path):
+    print '___TRAINING___'
     # Instantiate the English NLP pipeline
     print 'Loading the SpaCy English pipeline'
     nlp = spacy.load('en', parser=False, entity=False, add_vectors=False)
@@ -213,11 +168,18 @@ def run_training():
     if ner is not None:
         print 'Testing the trained NER'
         test_training(nlp, ner)
-        print 'Saving the model to ./ner'
-        save_model(ner, './ner')
+        print 'Saving the model to', save_path
+        save_model(ner, save_path)
     else:
         print 'The model could not be built'
 
+def run_testing(save_path):
+    print '__TESTING__'
+    print 'Loading the SpaCy English pipeline'
+    loading_test_nlp = spacy.load('en', parser=False, entity=False, add_vectors=False)
+    loading_test_ner = load_ner(loading_test_nlp, save_path)
+    test_training(loading_test_nlp, loading_test_ner)
+
 if __name__=='__main__':
-    #run_experiment()
-    run_training()
+    run_training('ner')
+    run_testing('ner')
