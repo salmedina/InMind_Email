@@ -208,9 +208,9 @@ def parse():
     
     nerRst = ner.test(body)
     
-    searchDict = {'TIME':[],'DATE':[],'LOCATION':[],'NAME':[],'ORGANIZATION':[]}
-    rstDict = {'TIME':[],'DATE':[],'LOCATION':[],'NAME':[],'ORGANIZATION':[]}
-    preIdx ={'TIME':-2,'DATE':-2,'LOCATION':-2,'NAME':-2,'ORGANIZATION':-2}
+    searchDict = {'TIME':[],'DATE':[],'LOCATION':[],'PERSON':[],'ORGANIZATION':[]}
+    rstDict = {'TIME':[],'DATE':[],'LOCATION':[],'PERSON':[],'ORGANIZATION':[]}
+    preIdx ={'TIME':-2,'DATE':-2,'LOCATION':-2,'PERSON':-2,'ORGANIZATION':-2}
     for i in range(len(nerRst)):
         if nerRst[i][1] in searchDict:
             if i == (preIdx[nerRst[i][1]] + 1):
@@ -226,7 +226,7 @@ def parse():
             rstDict[k].append(' '.join(v))
             
     output['what'] = ','.join(rstDict['ORGANIZATION'])
-    output['who'] = ','.join(rstDict['NAME'])
+    output['who'] = ','.join(set(rstDict['PERSON']))
     output['where'] = ','.join(rstDict['LOCATION'])
     output['when'] = ','.join(rstDict['TIME']) + '\t' + ','.join(rstDict['DATE'])
     
@@ -244,7 +244,8 @@ def parse():
         if i.has_key('AM-TMP'):
             if i.has_key('V') and i['V'] in verbList:
                 newCandidate.append(i['AM-TMP'])
-    if len(newCandidate)!=0:
+
+    if len(newCandidate)!=0 and max(len(rstDict['TIME']),len(rstDict['DATE'])) != 1:
         output['when'] = ','.join(newCandidate) + '\t' + ','.join(rstDict['DATE'])
 
     whereVerbs = ['reserved','booked']
